@@ -19,7 +19,7 @@ You can find links to my personal socials above.
   
 <ul>
   <li>
-    Maynooth University — [Bachelor of Science, Computational Thinking](https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/courses/bsc-computational-thinking) (2021-2024)
+    Maynooth University — <a href="https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/courses/bsc-computational-thinking">Bachelor of Science, Computational Thinking</a> (2021-2024)
     <ul>
       <li> Computer Science, Pure Mathematics and Philosophy (Accelerated Degree) </li>
     </ul>
