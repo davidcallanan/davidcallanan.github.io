@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@davidcallanan)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidpcallanan/)
 
-Hi. I am software engineer with a strong interest in economics, crypto technology and software architecuture.
+Hi. I am software engineer with a strong interest in economics, crypto technology and software architecture.
 My areas of expertise are full-stack web development, smart contract/on-chain development, and crypto-economic research.
 
 You can find links to my personal socials above.
