@@ -13,30 +13,44 @@ You can find links to my personal socials above.
 
 <details>
   
-  <summary> Education </summary>
+<summary> Education </summary>
 
 <br>
-
- - Maynooth University — [Bachelor of Science, Computational Thinking](https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/courses/bsc-computational-thinking) (2021-2024)
-   - Computer Science, Pure Mathematics and Philosophy (Accelerated Degree)
- - Self-educated
-   - Programming & Software Development (2012-2017)
-   - Software Architecture & Engineering (2018-present)
-   - Crypto Technology & Economics (2020-present)
   
+<ul>
+  <li>
+    Maynooth University — [Bachelor of Science, Computational Thinking](https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/courses/bsc-computational-thinking) (2021-2024)
+    <ul>
+      <li> Computer Science, Pure Mathematics and Philosophy (Accelerated Degree) </li>
+    </ul>
+  </li>
+  <li>
+    Self-educated
+    <ul>
+      <li> Programming & Software Development (2012-2017) </li>
+      <li> Software Architecture & Engineering (2018-present) </li>
+      <li> Crypto Technology & Economics (2020-present) </li>
+    </ul>
+  </li>
+</ul>
+
 </details>
 
 <details>
 
-  <summary> Employment </summary>
+<summary> Employment </summary>
 
 <br>
 
- - DLT Capital Limited Ireland (2021-present)
-   - Full-stack development
-   - Crypto trading tools and research
-  
- </details>
+<ul>
+  <li> DLT Capital Limited Ireland (2021-present) </li>
+  <ul>
+    <li> Full-stack development </li>
+    <li> Crypto trading tools and research </li>
+  </ul>
+</ul>
+
+</details>
 
 ## Portfolio
 
@@ -49,8 +63,6 @@ You can find links to my personal socials above.
 
  - [JiroPlay](https://gamepack.jiroplay.com/) <sub>(BETA)</sub> (2017-present)
    - A proof-of-concept gaming platform where your phone acts like a virtual controller and your laptop/tablet acts like a virtual console.
-   - Takes advantage of WebRTC communication to reduce latency and server infrastructure needed.
-   - This was just a fun project and so the sample games are not high-quality.
-   - Knows issues: The platform does not work as reliably over hotspots, mobile data, public WiFi and in locations with firewall limitations. It is preferable for everyone to be on the same LAN network and to ensure that direct LAN communication is not blocked. There may be connection issues on older devices.
+   - <details> <summary> More Info </summary> <li> Takes advantage of WebRTC communication to reduce latency and server infrastructure needed. </li> <li> This was just a fun project and so the sample games are not high-quality. </li> <li> Knows issues: The platform does not work as reliably over hotspots, mobile data, public WiFi and in locations with firewall limitations. It is preferable for everyone to be on the same LAN network and to ensure that direct LAN communication is not blocked. There may be connection issues on older devices. </li> </details>
  - [Condensis](https://condensis.com/) (2022-present)
    - Software tools and services in the crypto space
