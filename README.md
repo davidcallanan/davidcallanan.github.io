@@ -7,7 +7,7 @@
 Hi. I am software engineer with a strong interest in economics, crypto technology and software architecture.
 My areas of expertise are full-stack web development, smart contract/on-chain development, and crypto-economic research.
 
-You can find links to my personal socials above.
+You can find links to my socials above.
 
 ## Experience
 
