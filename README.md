@@ -63,6 +63,6 @@ You can find links to my personal socials above.
 
  - [JiroPlay](https://gamepack.jiroplay.com/) <sub>(BETA)</sub> (2017-present)
    - A proof-of-concept gaming platform where your phone acts like a virtual controller and your laptop/tablet acts like a virtual console.
-   - <details> <summary> More Info </summary> <li> Takes advantage of WebRTC communication to reduce latency and server infrastructure needed. </li> <li> This was just a fun project and so the sample games are not high-quality. </li> <li> Knows issues: The platform does not work as reliably over hotspots, mobile data, public WiFi and in locations with firewall limitations. It is preferable for everyone to be on the same LAN network and to ensure that direct LAN communication is not blocked. There may be connection issues on older devices. </li> </details>
+   <details> <summary> More Info </summary> <ul> <li> Takes advantage of WebRTC communication to reduce latency and server infrastructure needed. </li> <li> This was just a fun project and so the sample games are not high-quality. </li> <li> Knows issues: The platform does not work as reliably over hotspots, mobile data, public WiFi and in locations with firewall limitations. It is preferable for everyone to be on the same LAN network and to ensure that direct LAN communication is not blocked. There may be connection issues on older devices. </li> </ul> </details>
  - [Condensis](https://condensis.com/) (2022-present)
    - Software tools and services in the crypto space
