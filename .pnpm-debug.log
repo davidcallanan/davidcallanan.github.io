@@ -1,0 +1,14 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 error pnpm": {
+    "code": "ERR_PNPM_NO_IMPORTER_MANIFEST_FOUND",
+    "err": {
+      "name": "pnpm",
+      "message": "No package.json (or package.yaml, or package.json5) was found in \"C:\\Users\\David\\Documents\\git\\davidcallanan.github.io\".",
+      "code": "ERR_PNPM_NO_IMPORTER_MANIFEST_FOUND",
+      "stack": "pnpm: No package.json (or package.yaml, or package.json5) was found in \"C:\\Users\\David\\Documents\\git\\davidcallanan.github.io\".\n    at readProjectManifest (C:\\Users\\David\\AppData\\Roaming\\nvm\\v17.2.0\\node_modules\\pnpm\\dist\\pnpm.cjs:19793:13)\n    at async Object.readProjectManifestOnly (C:\\Users\\David\\AppData\\Roaming\\nvm\\v17.2.0\\node_modules\\pnpm\\dist\\pnpm.cjs:19797:28)\n    at async readProjectManifestOnly (C:\\Users\\David\\AppData\\Roaming\\nvm\\v17.2.0\\node_modules\\pnpm\\dist\\pnpm.cjs:43609:24)\n    at async Object.handler (C:\\Users\\David\\AppData\\Roaming\\nvm\\v17.2.0\\node_modules\\pnpm\\dist\\pnpm.cjs:176109:24)\n    at async C:\\Users\\David\\AppData\\Roaming\\nvm\\v17.2.0\\node_modules\\pnpm\\dist\\pnpm.cjs:180328:21\n    at async run (C:\\Users\\David\\AppData\\Roaming\\nvm\\v17.2.0\\node_modules\\pnpm\\dist\\pnpm.cjs:180302:34)\n    at async runPnpm (C:\\Users\\David\\AppData\\Roaming\\nvm\\v17.2.0\\node_modules\\pnpm\\dist\\pnpm.cjs:180513:5)\n    at async C:\\Users\\David\\AppData\\Roaming\\nvm\\v17.2.0\\node_modules\\pnpm\\dist\\pnpm.cjs:180505:7"
+    }
+  }
+}
