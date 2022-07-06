@@ -4,7 +4,7 @@
 	"version": "0.0.1",
 	"scripts": {
 		"dev": "vite dev",
-		"build": "vite build && pnpx --yes rimraf ../docs && pnpx --yes move-cli build ../docs"
+		"build": "vite build && pnpx --yes rimraf ../docs && pnpx --yes move-cli build ../docs && pnpx --yes copyfiles ../CNAME ../docs/CNAME && pnpx --yes copyfiles ../.nojekyll ../docs/.nojekyll"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "next",
