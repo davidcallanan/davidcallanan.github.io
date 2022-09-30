@@ -4,19 +4,17 @@
 	"version": "0.0.1",
 	"scripts": {
 		"dev": "vite dev",
-		"build": "vite build && pnpx --yes rimraf ../docs && pnpx --yes move-cli build ../docs && pnpx --yes copyfiles ../CNAME ../docs/CNAME && pnpx --yes copyfiles ../.nojekyll ../docs/.nojekyll"
+		"build": "vite build && pnpx rimraf ../docs && pnpx move-cli build ../docs && pnpx copyfiles ../CNAME ../docs/CNAME && pnpx copyfiles ../.nojekyll ../docs/.nojekyll"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "next",
-		"@sveltejs/adapter-static": "^1.0.0-next.34",
+		"@sveltejs/adapter-static": "1.0.0-next.43",
 		"@sveltejs/kit": "next",
 		"svelte": "^3.44.0",
 		"svelte-check": "^2.2.6",
 		"svelte-preprocess": "^4.10.1",
 		"tslib": "^2.3.1",
-		"typescript": "~4.6.2"
-	},
-	"dependencies": {
-		"vite": "^2.9.13"
+		"typescript": "~4.6.2",
+		"vite": "^3.1.4"
 	}
 }

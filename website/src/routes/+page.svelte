@@ -1,3 +1,5 @@
+<a href="/quotes"><div style="background: #ccc; color: black; padding: 0.375rem 0.75rem; position: absolute; top: 0; right: 0; font-weight: 600; color: darkred; font-size: 14px;"> <span id="personal-text">Personal</span> Quotes </div></a>
+
 <div class="wrapper">
 	<div class="container">
 		<div class="header">
@@ -77,7 +79,7 @@
 			<li><a href="https://www.youtube.com/CodePulse">Educational content on YouTube</a></li>
 			<li>Fun projects:
 				<ul>
-					<li>2048 Tetris - <a href="/2048-tetris">Play</a> • <a href="https://github.com/davidcallanan/2048-tetris">GitHub Repo</a></li>
+					<li>2048 Tetris - <a href="https://david.callanan.ie/2048-tetris">Play</a> • <a href="https://github.com/davidcallanan/2048-tetris">GitHub Repo</a></li>
 				</ul>
 			</li>
 		</ul>
@@ -187,6 +189,12 @@
 		margin-bottom: 1rem;
 		padding-bottom: 0.5rem;
 		margin-top: 1.5rem;
+	}
+
+	@media (max-width: 600px) {
+		#personal-text {
+			display: none;
+		}
 	}
 
 </style>
