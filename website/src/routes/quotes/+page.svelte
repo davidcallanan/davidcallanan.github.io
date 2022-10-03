@@ -36,4 +36,8 @@ We're all working towards nothing together.
 		color: blue;
 	}
 
+	pre {
+		white-space: pre-wrap;
+	}
+
 </style>
