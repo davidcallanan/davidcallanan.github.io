@@ -1,5 +1,3 @@
-<a href="/quotes"><div style="background: #ccc; color: black; padding: 0.375rem 0.75rem; position: absolute; top: 0; right: 0; font-weight: 600; color: darkred; font-size: 14px;"> <span id="personal-text">Personal</span> Quotes </div></a>
-
 <div class="wrapper">
 	<div class="container">
 		<div class="header">
