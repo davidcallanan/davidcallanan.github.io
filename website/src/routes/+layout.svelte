@@ -2,6 +2,8 @@
 
 	import { page } from "$app/stores";
 
+	import { afterNavigate } from "$app/navigation";
+
 	$: isHome = $page.url.pathname === "/";
 
 	let isMenuOpen = false;
@@ -13,6 +15,8 @@
 	let hideMenu = () => {
 		isMenuOpen = false;
 	};
+
+	afterNavigate(hideMenu);
 
 </script>
 
@@ -46,10 +50,9 @@
 <div class:shift={isHome} class:is-menu-open={isMenuOpen} style="display: flex; position: relative;">
 	<div style="flex: 1;" class:hide-on-small-screen={isMenuOpen}>
 		<slot></slot>
-		<div class="tint"></div>
 	</div>
 	{#if isMenuOpen}
-		<div class="the-menu" on:click={hideMenu}>
+		<div class="the-menu">
 			<div style="border-bottom: 2px solid rgb(0, 106, 255); padding: 0.25rem; font-family: Tahoma; font-size: 12px; color: rgb(0, 106, 255); text-align: center;">
 				Menu
 			</div>
@@ -57,6 +60,8 @@
 		</div>
 	{/if}
 </div>
+
+<div class="tint" class:is-menu-open={isMenuOpen} on:click={hideMenu}></div>
 
 <style>
 
@@ -145,6 +150,7 @@
 		max-width: calc(100vw - 1px);
 		border-left: 1px solid #eee;
 		background: white;
+		z-index: 2000;
 	}
 
 	.tint {
@@ -155,6 +161,7 @@
 		left: 0;
 		right: 0;
 		bottom: 0;
+		z-index: 1500;
 	}
 
 	@media (max-width: 650px) {
@@ -173,7 +180,7 @@
 			box-shadow: 0 0 4px 1px rgba(0, 0, 0, 0.2);
 		}
 
-		.is-menu-open .tint {
+		.is-menu-open.tint {
 			display: block;
 		}
 	}
