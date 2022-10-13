@@ -60,6 +60,7 @@
 			</div>
 			<a href="/" class:selected={path === "/"}> Home </a>
 			<a href="/quotes" class:selected={path === "/quotes"}> Personal Quotes </a>
+			<a href="/tv-list" class:selected={path === "/tv-list"}> All-Time Movies </a>
 		</div>
 	{/if}
 </div>
