@@ -6,6 +6,8 @@
 
 	$: isHome = $page.url.pathname === "/";
 
+	$: path = $page.url.pathname;
+
 	let isMenuOpen = false;
 
 	let toggleMenu = () => {
@@ -56,7 +58,8 @@
 			<div style="border-bottom: 2px solid rgb(0, 106, 255); padding: 0.25rem; font-family: Tahoma; font-size: 12px; color: rgb(0, 106, 255); text-align: center;">
 				Menu
 			</div>
-			<a href="/quotes"> Personal Quotes </a>
+			<a href="/" class:selected={path === "/"}> Home </a>
+			<a href="/quotes" class:selected={path === "/quotes"}> Personal Quotes </a>
 		</div>
 	{/if}
 </div>
@@ -205,6 +208,10 @@
 
 	.shift .the-menu {
 		border-top: 1px solid #eee;
+	}
+
+	.the-menu .selected {
+		background: lightblue;
 	}
 
 </style>

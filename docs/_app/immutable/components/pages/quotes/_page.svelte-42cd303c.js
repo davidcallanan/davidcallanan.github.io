@@ -1,8 +1,6 @@
-import{S as z,i as A,s as D,k as l,q as u,a as H,l as h,m as b,r as c,h as t,c as I,n as L,p as _,b as n,E as k,A as P}from"../../../chunks/index-a023ef18.js";function Q(j){let s,g,p,o,E,f,i,x,y,v,m,w,d,a,q;return{c(){s=l("a"),g=u("(Home)"),p=u(`\r
-\xA0\r
-`),o=l("h2"),E=u("Personal Quotes"),f=u(`\r
-\xA0\r
-`),i=l("h4"),x=u("David Callanan"),y=H(),v=l("hr"),m=H(),w=l("br"),d=H(),a=l("pre"),q=u(`Life is just one big distraction.\r
+import{S as R,i as j,s as D,k as u,q as g,a as I,l as h,m as p,r as b,h as a,c as L,p as P,n as _,b as k,E as n,A as E}from"../../../chunks/index-500611fd.js";function H(T){let r,t,i,v,y,w,f,s,m,c,d;return{c(){r=u("div"),t=u("div"),i=u("h2"),v=g("Personal Quotes"),y=g(`\r
+		\xA0\r
+		`),w=u("hr"),f=I(),s=u("pre"),m=g(`Life is just one big distraction.\r
 \r
 Life is like a box of chocolates, it's the worst gift you can give anyone.\r
 \r
@@ -20,13 +18,10 @@ The argument that a spider won't kill you is absurd when the opportunity to use 
 \r
 Everyone's weird, but at least some of us are weird in a cool way.\r
 \r
-We're all working towards nothing together.\r
-\r
-`),this.h()},l(e){s=h(e,"A",{href:!0,class:!0});var r=b(s);g=c(r,"(Home)"),r.forEach(t),p=c(e,`\r
-\xA0\r
-`),o=h(e,"H2",{style:!0});var T=b(o);E=c(T,"Personal Quotes"),T.forEach(t),f=c(e,`\r
-\xA0\r
-`),i=h(e,"H4",{style:!0});var C=b(i);x=c(C,"David Callanan"),C.forEach(t),y=I(e),v=h(e,"HR",{}),m=I(e),w=h(e,"BR",{}),d=I(e),a=h(e,"PRE",{style:!0,class:!0});var R=b(a);q=c(R,`Life is just one big distraction.\r
+We're all working towards nothing together.		\r
+		`),c=I(),d=u("br"),this.h()},l(e){r=h(e,"DIV",{class:!0});var o=p(r);t=h(o,"DIV",{class:!0});var l=p(t);i=h(l,"H2",{style:!0});var x=p(i);v=b(x,"Personal Quotes"),x.forEach(a),y=b(l,`\r
+		\xA0\r
+		`),w=h(l,"HR",{}),f=L(l),s=h(l,"PRE",{style:!0,class:!0});var q=p(s);m=b(q,`Life is just one big distraction.\r
 \r
 Life is like a box of chocolates, it's the worst gift you can give anyone.\r
 \r
@@ -44,6 +39,5 @@ The argument that a spider won't kill you is absurd when the opportunity to use 
 \r
 Everyone's weird, but at least some of us are weird in a cool way.\r
 \r
-We're all working towards nothing together.\r
-\r
-`),R.forEach(t),this.h()},h(){L(s,"href","/"),L(s,"class","svelte-eoyszq"),_(o,"display","inline-block"),_(i,"display","inline-block"),_(i,"color","#666"),_(a,"padding","0.5rem 1rem"),L(a,"class","svelte-eoyszq")},m(e,r){n(e,s,r),k(s,g),n(e,p,r),n(e,o,r),k(o,E),n(e,f,r),n(e,i,r),k(i,x),n(e,y,r),n(e,v,r),n(e,m,r),n(e,w,r),n(e,d,r),n(e,a,r),k(a,q)},p:P,i:P,o:P,d(e){e&&t(s),e&&t(p),e&&t(o),e&&t(f),e&&t(i),e&&t(y),e&&t(v),e&&t(m),e&&t(w),e&&t(d),e&&t(a)}}}class U extends z{constructor(s){super(),A(this,s,null,Q,D,{})}}export{U as default};
+We're all working towards nothing together.		\r
+		`),q.forEach(a),l.forEach(a),o.forEach(a),c=L(e),d=h(e,"BR",{}),this.h()},h(){P(i,"display","inline-block"),P(s,"padding","0.5rem 1rem"),_(s,"class","svelte-1qhiw3o"),_(t,"class","container svelte-1qhiw3o"),_(r,"class","wrapper svelte-1qhiw3o")},m(e,o){k(e,r,o),n(r,t),n(t,i),n(i,v),n(t,y),n(t,w),n(t,f),n(t,s),n(s,m),k(e,c,o),k(e,d,o)},p:E,i:E,o:E,d(e){e&&a(r),e&&a(c),e&&a(d)}}}class S extends R{constructor(r){super(),j(this,r,null,H,D,{})}}export{S as default};
