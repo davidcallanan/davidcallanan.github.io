@@ -22,47 +22,55 @@
 
 </script>
 
-<div class="header" class:is-home={isHome}>
-	{#if !isHome}
-		<a class="home" href="/" style="display: flex; align-items: center; margin-right: auto;">
-			<div class="img-wrapper">
-				<img src="/1657129620814.jfif">
+<div style="display: flex; flex-direction: column; height: 100%;">
+	<div class="header" class:is-home={isHome}>
+		{#if !isHome}
+			<a class="home" href="/" style="display: flex; align-items: center; margin-right: auto;">
+				<div class="img-wrapper">
+					<img src="/1657129620814.jfif">
+				</div>
+				<div class="title">
+					<h1> David Callanan </h1>
+				</div>
+			</a>
+			<div class="nav">
+				<a href="https://github.com/davidcallanan"><img src="https://img.shields.io/badge/GH-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt=""></a>
+				<a href="https://medium.com/@davidcallanan"><img src="https://img.shields.io/badge/Md-12100E?style=for-the-badge&amp;logo=medium&amp;logoColor=white" alt=""></a>
+				<a href="https://www.linkedin.com/in/davidpcallanan/"><img src="https://img.shields.io/badge/In-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt=""></a>
+				<a href="https://youtube.com/CodePulse"><img src="https://img.shields.io/badge/YT-DD0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt=""></a>
 			</div>
-			<div class="title">
-				<h1> David Callanan </h1>
+		{:else}
+			<div style="margin-right: auto;"></div>
+		{/if}
+		<div class="menu">
+			<div style="font-family: Tahoma; background: #ccc; padding: 0.375rem 0.75rem; font-weight: 600; color: darkred; font-size: 12px; border-radius: 0.5rem; cursor: pointer; user-select: none;" on:click={toggleMenu}>
+				<img src="/menu.svg" alt="Menu" style="width: 16px; vertical-align: middle; margin-left: -2px; padding-right: 4px;">
+				<span style="vertical-align: middle;"> MENU </span>
 			</div>
-		</a>
-		<div class="nav">
-			<a href="https://github.com/davidcallanan"><img src="https://img.shields.io/badge/GH-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt=""></a>
-			<a href="https://medium.com/@davidcallanan"><img src="https://img.shields.io/badge/Md-12100E?style=for-the-badge&amp;logo=medium&amp;logoColor=white" alt=""></a>
-			<a href="https://www.linkedin.com/in/davidpcallanan/"><img src="https://img.shields.io/badge/In-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt=""></a>
-			<a href="https://youtube.com/CodePulse"><img src="https://img.shields.io/badge/YT-DD0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt=""></a>
-		</div>
-	{:else}
-		<div style="margin-right: auto;"></div>
-	{/if}
-	<div class="menu">
-		<div style="font-family: Tahoma; background: #ccc; padding: 0.375rem 0.75rem; font-weight: 600; color: darkred; font-size: 12px; border-radius: 0.5rem; cursor: pointer; user-select: none;" on:click={toggleMenu}>
-			<img src="/menu.svg" alt="Menu" style="width: 16px; vertical-align: middle; margin-left: -2px; padding-right: 4px;">
-			<span style="vertical-align: middle;"> MENU </span>
 		</div>
 	</div>
-</div>
-
-<div class:shift={isHome} class:is-menu-open={isMenuOpen} style="display: flex; position: relative;">
-	<div style="flex: 1;" class:hide-on-small-screen={isMenuOpen}>
-		<slot></slot>
-	</div>
-	{#if isMenuOpen}
-		<div class="the-menu">
-			<div style="border-bottom: 2px solid rgb(0, 106, 255); padding: 0.25rem; font-family: Tahoma; font-size: 12px; color: rgb(0, 106, 255); text-align: center;">
-				Menu
-			</div>
-			<a href="/" class:selected={path === "/"}> Home </a>
-			<a href="/quotes" class:selected={path === "/quotes"}> Personal Quotes </a>
-			<a href="/tv-list" class:selected={path === "/tv-list"}> All-Time Movies </a>
+	
+	<div class:shift={isHome} class:is-menu-open={isMenuOpen} style="display: flex; position: relative; flex: 1;">
+		<div style="flex: 1;" class:hide-on-small-screen={isMenuOpen}>
+			<slot></slot>
 		</div>
-	{/if}
+		{#if isMenuOpen}
+			<div class="the-menu">
+				<div style="border-bottom: 2px solid rgb(0, 106, 255); padding: 0.25rem; font-family: Tahoma; font-size: 12px; color: rgb(0, 106, 255); text-align: center;">
+					Menu
+				</div>
+				<div class="nav">
+					<a href="https://github.com/davidcallanan"><img src="https://img.shields.io/badge/GH-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt=""></a>
+					<a href="https://medium.com/@davidcallanan"><img src="https://img.shields.io/badge/Md-12100E?style=for-the-badge&amp;logo=medium&amp;logoColor=white" alt=""></a>
+					<a href="https://www.linkedin.com/in/davidpcallanan/"><img src="https://img.shields.io/badge/In-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt=""></a>
+					<a href="https://youtube.com/CodePulse"><img src="https://img.shields.io/badge/YT-DD0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt=""></a>
+				</div>
+				<a href="/" class:selected={path === "/"}> Home </a>
+				<a href="/quotes" class:selected={path === "/quotes"}> Personal Quotes </a>
+				<a href="/tv-list" class:selected={path === "/tv-list"}> All-Time Movies </a>
+			</div>
+		{/if}
+	</div>
 </div>
 
 <div class="tint" class:is-menu-open={isMenuOpen} on:click={hideMenu}></div>
@@ -148,6 +156,10 @@
 		.nav {
 			display: none;
 		}
+
+		.the-menu .nav {
+			display: flex !important;
+		}
 	}
 
 	.the-menu {
@@ -169,7 +181,7 @@
 		z-index: 1500;
 	}
 
-	@media (max-width: 650px) {
+	/* @media (max-width: 650px) { */
 		/* .hide-on-small-screen {
 			display: none;
 		} */
@@ -188,9 +200,16 @@
 		.is-menu-open.tint {
 			display: block;
 		}
+	/* } */
+
+	.the-menu .nav {
+		display: none;
+		gap: 0.25rem;
+		margin-top: 0.5rem;
+		justify-content: center;
 	}
 
-	.the-menu a {
+	.the-menu > a {
 		display: block;
 		padding: 0.5rem 1rem;
 		border: 2px solid lightblue;
@@ -199,11 +218,8 @@
 		font-weight: 600;
 		/* color: darkaqua; */
 	}
-
-	.the-menu a {
-	}
 	
-	.the-menu a:hover {
+	.the-menu > a:hover:not(.selected) {
 		background: #eee;
 		/* text-decoration: underline; */
 	}
