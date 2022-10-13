@@ -1,13 +1,11 @@
-<a href="/">(Home)</a>
-&nbsp;
-<h2 style="display: inline-block;"> Personal Quotes </h2>
-&nbsp;
-<h4 style="display: inline-block; color: #666;"> David Callanan </h4>
-<hr>
 
-<br>
+<div class="wrapper">
+	<div class="container">
+		<h2 style="display: inline-block;"> Personal Quotes </h2>
+		&nbsp;
+		<hr>
 
-<pre style="padding: 0.5rem 1rem;">
+		<pre style="padding: 0.5rem 1rem;">
 Life is just one big distraction.
 
 Life is like a box of chocolates, it's the worst gift you can give anyone.
@@ -26,14 +24,25 @@ The argument that a spider won't kill you is absurd when the opportunity to use 
 
 Everyone's weird, but at least some of us are weird in a cool way.
 
-We're all working towards nothing together.
+We're all working towards nothing together.		
+		</pre>
+	</div>
+</div>
 
-</pre>
+<br>
+
 
 <style>
 
-	a {
-		color: blue;
+	.wrapper {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.container {
+		max-width: 960px;
+		margin: 1rem;
 	}
 
 	pre {
