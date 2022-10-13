@@ -69,11 +69,11 @@
 <style>
 
 	.shift {
-		margin-top: -45px;
+		margin-top: -53px;
 	}
 
 	.shift .the-menu {
-		margin-top: 45px;
+		margin-top: 53px;
 	}
 
 	.header {
@@ -84,6 +84,7 @@
 		padding-bottom: 0.5rem;
 		border-bottom: 1px solid #eee;
 		z-index: 1000;
+		height: calc(52px - 1rem);
 	}
 
 	.header.is-home {
@@ -212,6 +213,12 @@
 
 	.the-menu .selected {
 		background: lightblue;
+	}
+
+	@media (max-width: 500px) {
+		.shift {
+			margin-top: calc(-53px + 16px);
+		}
 	}
 
 </style>
