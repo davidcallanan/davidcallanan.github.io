@@ -25,19 +25,19 @@ Never Let Me Go
 Reign Over Me
 Stand By Me
 Station Agent
+The Gift
 The Hunt
 The Night Before
 The Pursuit of Happyness
 The Way Way Back
 Titanic
-(1 movie missing)
 
 Second-tier movies:
 
 Die Hard
 Office Space
 Parasite
-Planes, Trains And Automobiles
+Planes, Trains & Automobiles
 Speed
 The Invitation
 
