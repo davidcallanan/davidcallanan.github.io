@@ -189,11 +189,5 @@
 		margin-top: 1.5rem;
 	}
 
-	@media (max-width: 600px) {
-		#personal-text {
-			display: none;
-		}
-	}
-
 </style>
 

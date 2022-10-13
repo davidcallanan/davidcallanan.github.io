@@ -4,6 +4,16 @@
 
 	$: isHome = $page.url.pathname === "/";
 
+	let isMenuOpen = false;
+
+	let toggleMenu = () => {
+		isMenuOpen = !isMenuOpen;
+	};
+
+	let hideMenu = () => {
+		isMenuOpen = false;
+	};
+
 </script>
 
 <div class="header" class:is-home={isHome}>
@@ -26,18 +36,36 @@
 		<div style="margin-right: auto;"></div>
 	{/if}
 	<div class="menu">
-		<a href="/quotes"><div style="background: #ccc; color: black; padding: 0.375rem 0.75rem; font-weight: 600; color: darkred; font-size: 14px;"> <span id="personal-text">Personal</span> Quotes </div></a>
+		<div style="font-family: Tahoma; background: #ccc; padding: 0.375rem 0.75rem; font-weight: 600; color: darkred; font-size: 12px; border-radius: 0.5rem; cursor: pointer; user-select: none;" on:click={toggleMenu}>
+			<img src="/menu.svg" alt="Menu" style="width: 16px; vertical-align: middle; margin-left: -2px; padding-right: 4px;">
+			<span style="vertical-align: middle;"> MENU </span>
+		</div>
 	</div>
 </div>
 
-<div class:shift={isHome}>
-	<slot></slot>
+<div class:shift={isHome} class:is-menu-open={isMenuOpen} style="display: flex; position: relative;">
+	<div style="flex: 1;" class:hide-on-small-screen={isMenuOpen}>
+		<slot></slot>
+		<div class="tint"></div>
+	</div>
+	{#if isMenuOpen}
+		<div class="the-menu" on:click={hideMenu}>
+			<div style="border-bottom: 2px solid rgb(0, 106, 255); padding: 0.25rem; font-family: Tahoma; font-size: 12px; color: rgb(0, 106, 255); text-align: center;">
+				Menu
+			</div>
+			<a href="/quotes"> Personal Quotes </a>
+		</div>
+	{/if}
 </div>
 
 <style>
 
 	.shift {
 		margin-top: -45px;
+	}
+
+	.shift .the-menu {
+		margin-top: 45px;
 	}
 
 	.header {
@@ -112,11 +140,64 @@
 		}
 	}
 
-	
-	@media (max-width: 600px) {
-		#personal-text {
+	.the-menu {
+		width: 18rem;
+		max-width: calc(100vw - 1px);
+		border-left: 1px solid #eee;
+		background: white;
+	}
+
+	.tint {
+		display: none;
+		background: rgba(0, 0, 0, 0.1);
+		position: absolute;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+	}
+
+	@media (max-width: 650px) {
+		/* .hide-on-small-screen {
 			display: none;
+		} */
+
+		.the-menu {
+			position: absolute;
+			top: 0;
+			bottom: 0;
+			right: 0;
 		}
+
+		.is-menu-open .the-menu {
+			box-shadow: 0 0 4px 1px rgba(0, 0, 0, 0.2);
+		}
+
+		.is-menu-open .tint {
+			display: block;
+		}
+	}
+
+	.the-menu a {
+		display: block;
+		padding: 0.5rem 1rem;
+		border: 2px solid lightblue;
+		margin: 0.5rem;
+		/* background: linear-gradient(to bottom, #fff, #eee); */
+		font-weight: 600;
+		/* color: darkaqua; */
+	}
+
+	.the-menu a {
+	}
+	
+	.the-menu a:hover {
+		background: #eee;
+		/* text-decoration: underline; */
+	}
+
+	.shift .the-menu {
+		border-top: 1px solid #eee;
 	}
 
 </style>
