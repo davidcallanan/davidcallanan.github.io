@@ -1,4 +1,4 @@
-import{S as R,i as j,s as D,k as u,q as g,a as I,l as h,m as p,r as b,h as a,c as L,p as P,n as _,b as k,E as n,A as E}from"../../../chunks/index-500611fd.js";function H(T){let r,t,i,v,y,w,f,s,m,c,d;return{c(){r=u("div"),t=u("div"),i=u("h2"),v=g("Personal Quotes"),y=g(`\r
+import{S as R,i as j,s as D,k as u,q as g,a as I,l as h,m as p,r as b,h as a,c as L,p as P,n as _,b as k,E as n,A as E}from"../../../chunks/index-e9506ef8.js";function H(T){let r,t,i,v,y,w,f,s,m,c,d;return{c(){r=u("div"),t=u("div"),i=u("h2"),v=g("Personal Quotes"),y=g(`\r
 		\xA0\r
 		`),w=u("hr"),f=I(),s=u("pre"),m=g(`Life is just one big distraction.\r
 \r
