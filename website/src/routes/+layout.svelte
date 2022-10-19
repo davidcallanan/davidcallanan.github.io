@@ -51,7 +51,7 @@
 	</div>
 	
 	<div class:shift={isHome} class:is-menu-open={isMenuOpen} style="display: flex; position: relative; flex: 1;">
-		<div style="flex: 1;" class:hide-on-small-screen={isMenuOpen}>
+		<div style="flex: 1; width: 100%;" class:hide-on-small-screen={isMenuOpen}>
 			<slot></slot>
 		</div>
 		{#if isMenuOpen}
