@@ -10,7 +10,8 @@ body {
 	font-family: 'Source Serif Pro', serif;
 }
 
-#svelte {
+div {
+	width: 100%;
 	height: 100%;
 }
 
