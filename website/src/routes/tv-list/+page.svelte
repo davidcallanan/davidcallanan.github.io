@@ -52,9 +52,19 @@
 			rotten_tomatoes_url: "https://www.rottentomatoes.com/m/in_bruges",
 		},
 		{
+			name: "Life is Beautiful",
+			imdb_url: "https://www.imdb.com/title/tt0118799/",
+			rotten_tomatoes_url: "https://www.rottentomatoes.com/m/1084398-life_is_beautiful",
+		},
+		{
 			name: "Never Let Me Go",
 			imdb_url: "https://www.imdb.com/title/tt1334260/",
 			rotten_tomatoes_url: "https://www.rottentomatoes.com/m/never_let_me_go_2010",
+		},
+		{
+			name: "One Flew Over the Cuckoo's Nest",
+			imdb_url: "https://www.imdb.com/title/tt0073486/",
+			rotten_tomatoes_url: "https://www.rottentomatoes.com/m/one_flew_over_the_cuckoos_nest",
 		},
 		{
 			name: "Reign Over Me",
@@ -87,6 +97,11 @@
 			rotten_tomatoes_url: "https://www.rottentomatoes.com/m/pursuit_of_happyness",
 		},
 		{
+			name: "The Spiderwick Chronicles",
+			imdb_url: "https://www.imdb.com/title/tt0416236/",
+			rotten_tomatoes_url: "https://www.rottentomatoes.com/m/spiderwick_chronicles",
+		},
+		{
 			name: "The Station Agent",
 			imdb_url: "https://www.imdb.com/title/tt0340377/",
 			rotten_tomatoes_url: "https://www.rottentomatoes.com/m/station_agent",
@@ -116,7 +131,7 @@
 
 [MOVIES]
 
-First-tier movies:
+First-tier movies (most emotionally impactful):
 </pre>
 
 		{#each movies as movie}
@@ -130,7 +145,7 @@ First-tier movies:
 
 		<pre style="padding: 0.5rem 1rem;">
 
-Second-tier movies:
+Second-tier movies (other movies):
 
 Die Hard
 Office Space
