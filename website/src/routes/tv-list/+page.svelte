@@ -32,6 +32,11 @@
 			rotten_tomatoes_url: "https://www.rottentomatoes.com/m/dead_poets_society",
 		},
 		{
+			name: "Disturbia",
+			imdb_url: "https://www.imdb.com/title/tt0486822/",
+			rotten_tomatoes_url: "https://www.rottentomatoes.com/m/disturbia",
+		},
+		{
 			name: "Forgetting Sarah Marshall",
 			imdb_url: "https://www.imdb.com/title/tt0800039/",
 			rotten_tomatoes_url: "https://www.rottentomatoes.com/m/forgetting_sarah_marshall",
@@ -52,6 +57,11 @@
 			rotten_tomatoes_url: "https://www.rottentomatoes.com/m/in_bruges",
 		},
 		{
+			name: "Les Choristes",
+			imdb_url: "https://www.imdb.com/title/tt0372824/",
+			rotten_tomatoes_url: "https://www.rottentomatoes.com/m/chorus_les_choristes",
+		},
+		{
 			name: "Life is Beautiful",
 			imdb_url: "https://www.imdb.com/title/tt0118799/",
 			rotten_tomatoes_url: "https://www.rottentomatoes.com/m/1084398-life_is_beautiful",
@@ -70,6 +80,11 @@
 			name: "Reign Over Me",
 			imdb_url: "https://www.imdb.com/title/tt0490204/",
 			rotten_tomatoes_url: "https://www.rottentomatoes.com/m/reign_over_me",
+		},
+		{
+			name: "Soylent Green",
+			imdb_url: "https://www.imdb.com/title/tt0070723/",
+			rotten_tomatoes_url: "https://www.rottentomatoes.com/m/soylent_green",
 		},
 		{
 			name: "Stand By Me",
@@ -151,6 +166,8 @@ Die Hard
 Office Space
 Parasite
 Planes, Trains & Automobiles
+Prisoners
+Road to Perdition
 Speed
 The Invitation
 
