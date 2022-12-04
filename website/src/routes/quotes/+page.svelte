@@ -16,7 +16,9 @@ Trust is as much about when it's broken as it is about when it's superficially p
 
 Every positive act has an eventual negative consequence.
 
-If someone you love is someone you can't live without, then why are you expected to have the strength and attitude to overcome the loss of it?
+You must be just about sane enough to question your sanity.
+
+If someone you love is someone you can't live without, then why are you expected to have the strength and attitude to overcome the loss?
 
 Ultimately we conceive our own meaning to life, and it's only relative to our own perspective that we can claim a particular attitude to life is inherently more righteous.
 
@@ -24,7 +26,17 @@ The argument that a spider won't kill you is absurd when the opportunity to use 
 
 Everyone's weird, but at least some of us are weird in a cool way.
 
-We're all working towards nothing together.		
+We're all working towards nothing together.
+
+Many a hand does the devil's work.
+
+Broken bones will eventually heal, but in you, those words, will be permanently sealed.
+
+A watched kettle eventually boils.
+
+A carefully-written card pains a thousand presents.
+
+The beautiful strawberry who broke my camel's back.
 		</pre>
 	</div>
 </div>
