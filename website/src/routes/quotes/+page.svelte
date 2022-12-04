@@ -54,6 +54,9 @@
 		<blockquote class="quote">
 			The beautiful strawberry who broke my camel's back.
 		</blockquote>
+		<blockquote class="quote">
+			Pain is the ultimate beauty.
+		</blockquote>
 		
 		<br><br>
 
