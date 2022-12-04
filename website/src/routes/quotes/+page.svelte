@@ -34,6 +34,9 @@
 			The argument that a spider won't kill you is absurd when the opportunity to use your bedside knife will immediately present itself upon a spider landing on your face.
 		</blockquote>
 		<blockquote class="quote">
+			One day you'll pass the best day of your life, and god forbid you notice.
+		</blockquote>
+		<blockquote class="quote">
 			Everyone's weird, but at least some of us are weird in a cool way.
 		</blockquote>
 		<blockquote class="quote">
@@ -49,7 +52,7 @@
 			A watched kettle eventually boils.
 		</blockquote>
 		<blockquote class="quote">
-			A carefully-written card paints a thousand presents.
+			A carefully-painted card is a thousand presents.
 		</blockquote>
 		<blockquote class="quote">
 			The beautiful strawberry who broke my camel's back.
