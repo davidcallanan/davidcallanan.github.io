@@ -65,7 +65,7 @@
 
 		<pre style="padding: 0.5rem 1rem;">
 
-			Last updated 2022-12-04.
+			Last updated 2022-12-05.
 
 		</pre>
 
