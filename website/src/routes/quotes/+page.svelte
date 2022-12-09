@@ -10,6 +10,9 @@
 			Life is just one big distraction.
 		</blockquote>
 		<blockquote class="quote">
+			Life's worth taking risks.
+		</blockquote>
+		<blockquote class="quote">
 			Life is like a box of chocolates, it's the worst gift you can give anyone.
 		</blockquote>
 		<blockquote class="quote">
@@ -60,12 +63,18 @@
 		<blockquote class="quote">
 			Pain is the ultimate beauty.
 		</blockquote>
+		<blockquote class="quote">
+			What if you're wrong? &mdash; But what if you're right?
+		</blockquote>
+		<blockquote class="quote">
+			I was missing <i>you</i>; but I was missing you <i>less</i>. Until your smile of beauty, so <i>true</i>; re<i>surfaced</i> &mdash; the <i>love</i> for <i>you</i> I <i>can't</i> <span>ex<i>press</i></span>.
+		</blockquote>
 		
 		<br><br>
 
 		<pre style="padding: 0.5rem 1rem;">
 
-			Last updated 2022-12-05.
+			Last updated 2022-12-09.
 
 		</pre>
 
@@ -118,5 +127,15 @@
 		content: close-quote;
 		padding-left: 0.1875rem;
 	} */
+
+	.quote i {
+		display: inline-block;
+		font-style: normal;
+		transform: skew(-8deg);
+	}
+
+	span {
+		display: inline-block;
+	}
 
 </style>
