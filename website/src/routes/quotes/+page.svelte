@@ -67,7 +67,7 @@
 			What if you're wrong? &mdash; But what if you're right?
 		</blockquote>
 		<blockquote class="quote">
-			I was missing <i>you</i>; but I was missing you <i>less</i>. Until your smile of beauty, so <i>true</i>; re<i>surfaced</i> &mdash; the <i>love</i> for <i>you</i> I <i>can't</i> <span>ex<i>press</i></span>.
+			I was missing <i>you</i>; but I was missing you <i>less</i>. Until your smile of beauty, so <i>true</i>, re<i>surfaced</i>: the <i>love</i> for <i>you</i> I <i>can't</i> <span>ex<i>press</i></span>.
 		</blockquote>
 		
 		<br><br>
