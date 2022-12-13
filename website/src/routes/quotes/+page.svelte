@@ -69,12 +69,15 @@
 		<blockquote class="quote">
 			I was missing <i>you</i>; but I was missing you <i>less</i>. Until your smile of beauty, so <i>true</i>, re<i>surfaced</i>: the <i>love</i> for <i>you</i> I <i>can't</i> <span>ex<i>press</i></span>. Shall I be missing you again?
 		</blockquote>
+		<blockquote class="quote">
+			I'm grateful for the awareness of how much more grateful I should in fact be.
+		</blockquote>
 		
 		<br><br>
 
 		<pre style="padding: 0.5rem 1rem;">
 
-			Last updated 2022-12-10.
+			Last updated 2022-12-13.
 
 		</pre>
 
