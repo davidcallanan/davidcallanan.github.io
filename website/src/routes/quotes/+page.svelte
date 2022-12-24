@@ -16,7 +16,7 @@
 			Life is like a box of chocolates, it's the worst gift you can give anyone.
 		</blockquote>
 		<blockquote class="quote">
-			Life is like a box of chocolates, but don't let it be the worst gift you can receive.
+			Life is like a box of chocolates, but don't let it be the worst gift you receive.
 		</blockquote>
 		<blockquote class="quote">
 			I wonder is there a parallel universe where there's no such thing as parallel universes?
