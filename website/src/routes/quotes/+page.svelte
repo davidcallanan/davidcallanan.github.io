@@ -71,14 +71,17 @@
 			target="_blank">I was missing <i>you</i>; but I was missing you <i>less</i>. Until your smile of beauty, so <i>true</i>, re<i>surfaced</i>: the <i>love</i> for <i>you</i> I <i>can't</i> <span>ex<i>press</i></span>. Shall I be missing you again?</a>
 		</blockquote>
 		<blockquote class="quote">
-			I'm grateful for the awareness of how much more grateful I should in fact be.
+			I'm grateful for the awareness of how much more grateful I should be.
+		</blockquote>
+		<blockquote class="quote">
+			In great strength lies my greatest weakness, for its determination leads to the repudiation of the unattainable.
 		</blockquote>
 		
 		<br><br>
 
 		<pre style="padding: 0.5rem 1rem;">
 
-			Last updated 2022-12-13.
+			Last updated 2022-12-24.
 
 		</pre>
 
