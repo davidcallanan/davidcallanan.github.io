@@ -67,7 +67,8 @@
 			What if you're wrong? &mdash; But what if you're right?
 		</blockquote>
 		<blockquote class="quote">
-			I was missing <i>you</i>; but I was missing you <i>less</i>. Until your smile of beauty, so <i>true</i>, re<i>surfaced</i>: the <i>love</i> for <i>you</i> I <i>can't</i> <span>ex<i>press</i></span>. Shall I be missing you again?
+			<a href="data:text/html,&lt;div style=&quot;text-align: center&quot;&gt;&lt;p style=&quot;font-family: monospace; display: inline-block; font-size: 1rem; text-align: left; margin-top: 5rem; padding: 3rem 5rem; border: 1px solid rgb(220, 220, 220);&quot;&gt;&lt;b&gt;Missing You Again&lt;/b&gt;&lt;br&gt;&lt;i&gt;David P. Callanan&lt;/i&gt;&lt;br&gt;&lt;br&gt;I was missing you&lt;br&gt;But I was missing you less&lt;br&gt;Until your smile of beauty&lt;br&gt;so true&lt;br&gt;resurfaced.&lt;br&gt;the Love for you I can't express&lt;br&gt;&lt;br&gt;Shall I be missing you again?%3C/p%3E%3C/div%3E"
+			target="_blank">I was missing <i>you</i>; but I was missing you <i>less</i>. Until your smile of beauty, so <i>true</i>, re<i>surfaced</i>: the <i>love</i> for <i>you</i> I <i>can't</i> <span>ex<i>press</i></span>. Shall I be missing you again?</a>
 		</blockquote>
 		<blockquote class="quote">
 			I'm grateful for the awareness of how much more grateful I should in fact be.
