@@ -42,6 +42,11 @@
 			rotten_tomatoes_url: "https://www.rottentomatoes.com/m/forgetting_sarah_marshall",
 		},
 		{
+			name: "Forrest Gump",
+			imdb_url: "https://www.imdb.com/title/tt0109830/",
+			rotten_tomatoes_url: "https://www.rottentomatoes.com/m/forrest_gump",
+		},
+		{
 			name: "Get Out",
 			imdb_url: "https://www.imdb.com/title/tt5052448/",
 			rotten_tomatoes_url: "https://www.rottentomatoes.com/m/get_out",
