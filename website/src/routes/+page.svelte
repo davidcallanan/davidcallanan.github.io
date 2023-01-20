@@ -6,7 +6,7 @@
 			</div>
 			<div class="title">
 				<h1> David Callanan </h1>
-				<h2> Software Engineer </h2>
+				<h2> Software Engineer & Theoretical Researcher </h2>
 			</div>
 		</div>
 
@@ -20,7 +20,8 @@
 		</p>
 		
 		<p>
-			Hi. I am a software engineer with a strong interest in economics, crypto technology and software architecture. My areas of expertise are full-stack web development, smart contract/on-chain development, and crypto-economic research.
+			Hi. I'm David, a senior software engineer with a strong passion for theoretical research, covering many areas from software architecture and crypto technology, to programming language design and the formulation of mathematical foundations for economic systems.
+			My areas of expertise include full-stack web development, smart contract development, pure mathematics, and economic innovation.
 		</p>
 
 		<h2 class="h1" id="education"> Education </h2>
@@ -28,7 +29,7 @@
 		<div>
 			<ul>
 				<li>
-					Maynooth University — <a href="https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/courses/bsc-computational-thinking">Bachelor of Science, Computational Thinking</a> (2021-2024) <sub>(18-21yo)</sub><br>
+					Maynooth University — <a href="https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/courses/bsc-computational-thinking">Bachelor of Science, Computational Thinking</a> (2021-2025)<br>
 					<ul>
 						<li>
 							Computer Science, Pure Mathematics and Philosophy (Accelerated Degree)
@@ -40,13 +41,13 @@
 						<summary>Self-educated</summary><br>
 						<ul>
 							<li>
-								Crypto Technology & Economics (2020-present) <sub>(17yo-)</sub>
+								Crypto Technology & Economics (2020-present)
 							</li>
 							<li>
-								Software Architecture & Engineering (2018-present) <sub>(15yo-)</sub>
+								Software Engineering & Architecture (2018-present)
 							</li>
 							<li>
-								Programming & Software Development (2012-2017) <sub>(9-14yo)</sub>
+								Programming & Software Development (2012-2017)
 							</li>
 						</ul>
 					</details>
@@ -58,15 +59,18 @@
 
 		<ul>
 			<li>
-				DLT Capital Limited Ireland (2021-present) <sub>(18yo-)</sub>
+				DLT Capital Limited Ireland (2021-present)
 				<ul>
 					<li>
-						Senior Engineer & Team Lead (2022-present) <sub>(19yo-)</sub>
+						Senior Engineer & Team Lead (2022-present)
 					</li>
 					<li>
-						Full-Stack Developer (2021) <sub>(18yo)</sub>
+						Full-Stack Developer (2021)
 					</li>
 				</ul>
+			</li>
+			<li>
+				McDonald's Crew Member (2022-present)
 			</li>
 		</ul>
 
@@ -145,7 +149,12 @@
 	}
 
 	.header h2 {
+		color: rgb(77, 93, 139);
+		color: rgb(17, 133, 73);
 		color: rgb(45, 98, 255);
+		color: rgb(55, 87, 184);
+		font-size: 1.25rem;
+		padding-left: 0.125rem;
 	}
 
 	.divider {
