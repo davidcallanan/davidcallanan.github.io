@@ -82,6 +82,7 @@
 			<li>Fun projects:
 				<ul>
 					<li>2048 Tetris - <a href="https://david.callanan.ie/2048-tetris">Play</a> • <a href="https://github.com/davidcallanan/2048-tetris">GitHub Repo</a></li>
+					<li>30 Second Number Smash - <a href="https://david.callanan.ie/30-second-number-smash">Play</a> • (GitHub Repo coming soon)</li>
 				</ul>
 			</li>
 		</ul>
