@@ -90,13 +90,13 @@
 		<h2 class="h1" id="projects"> Projects </h2>
 
 		<ul>
-			<li><a href="https://gamepack.jiroplay.com/">JiroPlay</a> <sub>(BETA)</sub> (2017-2020) <sub>(14-17yo)</sub>
+			<li><a href="https://gamepack.jiroplay.com/">JiroPlay</a> <sub>(BETA)</sub> (2017-2020)
 				<ul>
 					<li>A proof-of-concept gaming platform where your phone acts like a virtual controller and your laptop/tablet acts like a virtual console.</li>
 				</ul>
 				<details> <summary> More Info </summary> <ul> <li> Takes advantage of WebRTC communication to reduce latency and server infrastructure needed. </li> <li> This was just a fun project and so the sample games are not high-quality. </li> <li> Knows issues: The platform does not work as reliably over hotspots, mobile data, public WiFi and in locations with firewall limitations. It is preferable for everyone to be on the same LAN network and to ensure that direct LAN communication is not blocked. There may be connection issues on older devices. </li> </ul> </details>
 			</li>
-			<li><a href="https://condensis.com/">Condensis</a> (2022-present) <sub>(19yo-)</sub>
+			<li><a href="https://condensis.com/">Condensis</a> (2022-present)
 				<ul>
 					<li>Software tools and services in the crypto space.</li>
 				</ul>
