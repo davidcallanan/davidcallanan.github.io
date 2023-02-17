@@ -20,8 +20,8 @@
 		</p>
 		
 		<p>
-			Hi. I'm David, a senior software engineer with a strong passion for theoretical research, covering many areas from software architecture and crypto technology, to programming language design and the formulation of mathematical foundations for economic systems.
-			My areas of expertise include full-stack web development, smart contract development, pure mathematics, and economic innovation.
+			Hey. I'm David, a senior software engineer with a strong passion for technical and theoretical research, covering many areas from software architecture and crypto technology, to programming language design and rigorously-formulated foundations for economic systems.
+			My areas of expertise include full-stack web development, on-chain development, pure mathematics, and economic exploration. If you must know, I mostly use JavaScript – but on steroids.
 		</p>
 
 		<h2 class="h1" id="education"> Education </h2>
