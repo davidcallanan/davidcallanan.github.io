@@ -93,7 +93,7 @@
 
 		<pre style="padding: 0.5rem 1rem;">
 
-			Last updated 2022-12-24.
+			Last updated 2023-03-03.
 
 		</pre>
 
