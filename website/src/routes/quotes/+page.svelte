@@ -82,11 +82,11 @@
 			In great strength lies my greatest weakness, for its determination leads to the repudiation of the unattainable.
 		</blockquote>
 		<blockquote class="quote">
-			You can only carry guilt toward someone you love more that returned.			 
+			You can only carry guilt toward someone you love more than returned.			 
 		</blockquote>
 		<blockquote class="quote">
 			<!-- Intelligence to its limits unlocks the despairing ability to form permanently-unmalleable beliefs of cyclical irreversibility, only pseudo-repairable by substitution of identity and, ultimitely, the loss of soul.		  -->
-			Intelligence to its limits unlocks the despairing ability to form permanently-unmalleable beliefs of cyclical irreversibility, only pseudo-repairable by substitution of identity and, ultimitely, the death of soul.		 
+			Intelligence to its limits unlocks the despairing ability to form permanently-unmalleable beliefs of cyclical irreversibility, only pseudo-repairable by the substitution of identity and, ultimitely, the death of soul.		 
 		</blockquote>
 		
 		<br><br>
