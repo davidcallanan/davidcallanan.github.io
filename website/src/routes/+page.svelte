@@ -20,8 +20,8 @@
 		</p>
 		
 		<p>
-			Hey. I'm David, a senior software engineer with a strong passion for technical and theoretical research, covering many areas from software architecture and crypto technology, to programming language design and rigorously-formulated foundations for economic systems.
-			My areas of expertise include full-stack web development, on-chain development, pure mathematics, and economic exploration. If you must know, I mostly use JavaScript – but on steroids.
+			Hey. I'm David, a senior software engineer with a strong passion for technical and theoretical research, covering many areas, from software architecture and crypto technology, to programming language design and rigorously-formulated foundations for economic systems.
+			My areas of expertise include full-stack web development, on-chain development, pure mathematics, and economic exploration. If you must know, I mostly use JavaScript – <a href="https://github.com/davidcallanan/js-utils-of-essence">but on steroids</a>.
 		</p>
 
 		<h2 class="h1" id="education"> Education </h2>

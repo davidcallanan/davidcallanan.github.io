@@ -16,13 +16,15 @@
 			Life is like a box of chocolates, it's the worst gift you can give anyone.
 		</blockquote>
 		<blockquote class="quote">
-			Life is like a box of chocolates, but don't let it be the worst gift you receive.
+			Life might be like a box of chocolates, but don't let it be the worst gift you ever receive.
 		</blockquote>
 		<blockquote class="quote">
 			I wonder is there a parallel universe where there's no such thing as parallel universes?
 		</blockquote>
 		<blockquote class="quote">
-			Trust is as much about when it's broken as it is about when it's superficially preserved.
+			<!-- Trust is as much about when it's broken as it is about when it's superficially preserved. -->
+			Trust is as much about when it's broken as it is about when it's superficially maintained.
+			<!-- GH Copilot: Trust is only as strong as the last time it was broken. -->
 		</blockquote>
 		<blockquote class="quote">
 			Every positive act has an eventual negative consequence.
@@ -32,10 +34,10 @@
 		</blockquote>
 		<!-- <blockquote class="quote">
 			If someone you love is someone you can't live without, then why are you expected to have the strength and attitude to overcome the loss of them?
-		</blockquote>
+		</blockquote>-->
 		<blockquote class="quote">
 			Ultimately we conceive our own meaning to life, and it's only relative to our own perspective that we can claim a particular attitude to life is inherently more righteous.
-		</blockquote> -->
+		</blockquote>
 		<blockquote class="quote">
 			The argument that a spider won't kill you is absurd when the opportunity to use your bedside knife will immediately present itself upon a spider landing on your face.
 		</blockquote>
@@ -78,6 +80,13 @@
 		</blockquote>
 		<blockquote class="quote">
 			In great strength lies my greatest weakness, for its determination leads to the repudiation of the unattainable.
+		</blockquote>
+		<blockquote class="quote">
+			You can only carry guilt toward someone you love more that returned.			 
+		</blockquote>
+		<blockquote class="quote">
+			<!-- Intelligence to its limits unlocks the despairing ability to form permanently-unmalleable beliefs of cyclical irreversibility, only pseudo-repairable by substitution of identity and, ultimitely, the loss of soul.		  -->
+			Intelligence to its limits unlocks the despairing ability to form permanently-unmalleable beliefs of cyclical irreversibility, only pseudo-repairable by substitution of identity and, ultimitely, the death of soul.		 
 		</blockquote>
 		
 		<br><br>
