@@ -59,10 +59,10 @@
 
 		<ul>
 			<li>
-				DLT Capital Limited Ireland (2021-present)
+				<a href="https://dltcapital.ie" target="_blank">DLT Capital Ireland</a> (2021-present)
 				<ul>
 					<li>
-						Senior Engineer & Team Lead (2022-present)
+						Senior Software Engineer (2022-present)
 					</li>
 					<li>
 						Full-Stack Developer (2021)
