@@ -2,7 +2,7 @@
 	<div class="container">
 		<div class="header">
 			<div class="img-wrapper">
-				<img src="/1657129620814.jfif">
+				<img src="/favicon.png">
 			</div>
 			<div class="title">
 				<h1> David Callanan </h1>

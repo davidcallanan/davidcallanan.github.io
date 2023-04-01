@@ -27,7 +27,7 @@
 		{#if !isHome}
 			<a class="home" href="/" style="display: flex; align-items: center; margin-right: auto;">
 				<div class="img-wrapper">
-					<img src="/1657129620814.jfif">
+					<img src="/favicon.png">
 				</div>
 				<div class="title">
 					<h1> David Callanan </h1>
