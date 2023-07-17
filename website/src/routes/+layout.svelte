@@ -67,6 +67,7 @@
 				</div>
 				<a href="/" class:selected={path === "/"}> Home </a>
 				<a href="/quotes" class:selected={path === "/quotes"}> Personal Quotes </a>
+				<a href="/top-quotes" class:selected={path === "/top-quotes"}> Top Quotes </a>
 				<a href="/dictionary" class:selected={path === "/dictionary"}> Custom Terminology </a>
 				<a href="/tv-list" class:selected={path === "/tv-list"}> All-Time Movies </a>
 			</div>
