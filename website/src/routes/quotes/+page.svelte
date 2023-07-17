@@ -29,15 +29,15 @@
 		<blockquote class="quote">
 			Every positive act has an eventual negative consequence.
 		</blockquote>
-		<blockquote class="quote">
+		<!-- <blockquote class="quote">
 			You must be just about sane enough to question your sanity.
-		</blockquote>
+		</blockquote> -->
 		<!-- <blockquote class="quote">
 			If someone you love is someone you can't live without, then why are you expected to have the strength and attitude to overcome the loss of them?
 		</blockquote>-->
-		<blockquote class="quote">
+		<!-- <blockquote class="quote">
 			Ultimately we conceive our own meaning to life, and it's only relative to our own perspective that we can claim a particular attitude to life is inherently more righteous.
-		</blockquote>
+		</blockquote> -->
 		<blockquote class="quote">
 			The argument that a spider won't kill you is absurd when the opportunity to use your bedside knife will immediately present itself upon a spider landing on your face.
 		</blockquote>
@@ -65,9 +65,9 @@
 		<blockquote class="quote">
 			The beautiful strawberry who broke my camel's back.
 		</blockquote>
-		<blockquote class="quote">
+		<!-- <blockquote class="quote">
 			Pain is the ultimate beauty.
-		</blockquote>
+		</blockquote> -->
 		<blockquote class="quote">
 			What if you're wrong? &mdash; But what if you're right?
 		</blockquote>
