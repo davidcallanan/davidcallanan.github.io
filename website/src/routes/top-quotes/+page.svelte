@@ -71,7 +71,7 @@
 		</blockquote>
 		<blockquote class="quote">
 			When your tired eyes are turning 83.<br/>
-			<span> - Daniel Leggs - Crutches </span>
+			<span> - Daniel Leggs: Crutches </span>
 		</blockquote>
 		<blockquote class="quote">
 			I haven't slept.<br/>
@@ -87,7 +87,7 @@
 		</blockquote>
 		<blockquote class="quote">
 			Looking at the sky with you.
-			<span> - Looking at the Sky With You </span>
+			<span> - Roiael: Looking at the Sky With You </span>
 		</blockquote>
 		<blockquote class="quote">
 			I will never love again.
@@ -95,7 +95,7 @@
 		</blockquote>
 		<blockquote class="quote">
 			But you can wrap your arms around my neck.
-			<span> - Strawberry Guy - Company </span>
+			<span> - Strawberry Guy: Company </span>
 		</blockquote>
 		<blockquote class="quote">
 			You shine so bright even when you're fallin. <br/>
@@ -108,6 +108,62 @@
 		<blockquote class="quote">
 			I'll be with you soon. <br/>
 			<span> - Colouring: If I Ever Lose Your Love </span>
+		</blockquote>
+		<blockquote class="quote">
+			When you love someone, but it goes to waste. <br/>
+			<span> - Coldplay: Fix You </span>
+		</blockquote>
+		<blockquote class="quote">
+			Hey, are you awake? <br/>
+			<span> - The National: About Today </span>
+		</blockquote>
+		<blockquote class="quote">
+			Without you, I've got no hand to hold. <br/>
+			<span> - We The Kings: Sad Song </span>
+		</blockquote>
+		<blockquote class="quote">
+			You'll have me suicidal. <br/>
+			<span> - Sean Kingston: Beautiful Girls </span>
+		</blockquote>
+		<blockquote class="quote">
+			When we're sleeping and I'm by your side. <br/>
+			<span> - Flatsound: By Your Side </span>
+		</blockquote>
+		<blockquote class="quote">
+			Suddenly everything changed. <br/>
+			<span> - Bright Eyes: First Day of My Life </span>
+		</blockquote>
+		<blockquote class="quote">
+			Always back to you, my friend. <br/>
+			<span> - Flower Face: Back to You </span>
+		</blockquote>
+		<blockquote class="quote">
+			Say something, I'm giving up on you. <br/>
+			<span> - A Great Big World: Say Something </span>
+		</blockquote>
+		<blockquote class="quote">
+			I will carry you always. <br/>
+			<span> - Novo Amor: Carry You </span>
+		</blockquote>
+		<blockquote class="quote">
+			It overtakes me. <br/>
+			<span> - April June: The Trip We Never Took </span>
+		</blockquote>
+		<blockquote class="quote">
+			Please, won't someone take me home. <br/>
+			<span> - Anson Seabra: Broken </span>
+		</blockquote>
+		<blockquote class="quote">
+			It was enchanting to meet you. <br/>
+			<span> - Taylor Swift: Enchanted </span>
+		</blockquote>
+		<blockquote class="quote">
+			All of my doubt suddenly goes away somehow. <br/>
+			<span> - Christina Perri: A Thousand Years </span>
+		</blockquote>
+		<blockquote class="quote">
+			These memories still remain. <br/>
+			<span> - Hollow Coves: These Memories </span>
 		</blockquote>
 	</div>
 </div>
