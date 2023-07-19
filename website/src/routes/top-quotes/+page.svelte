@@ -1,7 +1,7 @@
 
 <div class="wrapper">
 	<div class="container">
-		<h2 style="display: inline-block;"> Favourite Quotes </h2>
+		<h2 style="display: inline-block;"> Top Quotes </h2>
 		&nbsp;
 		<hr>
 		<br>
@@ -16,7 +16,7 @@
 		</blockquote>
 
 		<br/><br/>
-		<h2 style="display: inline-block;"> Song Quotes </h2>
+		<h2 style="display: inline-block;"> Music Quotes </h2>
 		&nbsp;
 		<hr>
 		<br>
@@ -164,6 +164,54 @@
 		<blockquote class="quote">
 			These memories still remain. <br/>
 			<span> - Hollow Coves: These Memories </span>
+		</blockquote>
+		<blockquote class="quote">
+			Somebody I can miss. <br/>
+			<span> - The Chainsmokers & Coldplay: Something Just Like This </span>
+		</blockquote>
+		<blockquote class="quote">
+			You lost the love I loved the most. <br/>
+			<span> - Christina Perri: Jar of Hearts </span>
+		</blockquote>
+		<blockquote class="quote">
+			Let me hold you for the last time. <br/>
+			<span> - James Morrison: Broken Strings </span>
+		</blockquote>
+		<blockquote class="quote">
+			And nothing's gonna change that. <br/>
+			<span> - Matthew Mole: You Are Loved </span>
+		</blockquote>
+		<blockquote class="quote">
+			But I could tell that something had changed how you looked at me then. <br/>
+			<span> - Cigarettes After Sex: K </span>
+		</blockquote>
+		<blockquote class="quote">
+			But I like it when you're here somehow. <br/>
+			<span> - Sean Davidson: Maybe Tomorrow </span>
+		</blockquote>
+		<blockquote class="quote">
+			Am I crawling on my knees? <br/>
+			<span> - Gert Taberner: Fallen </span>
+		</blockquote>
+		<blockquote class="quote">
+			Are what remind me why I fell for you. <br/>
+			<span> - New West: Those Eyes </span>
+		</blockquote>
+		<blockquote class="quote">
+			There's something inside you. <br/>
+			<span> - Kavinsky: Nightcall </span>
+		</blockquote>
+		<blockquote class="quote">
+			Soft speak with a mean streak. <br/>
+			<span> - Cage The Elephant: Cigarette Daydreams </span>
+		</blockquote>
+		<blockquote class="quote">
+			Love can touch us one time. <br/>
+			<span> - Celine Dion: My Heart Will Go On </span>
+		</blockquote>
+		<blockquote class="quote">
+			So, please let me go. <br/>
+			<span> - The Walters: I Love You So </span>
 		</blockquote>
 	</div>
 </div>
