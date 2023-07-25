@@ -213,6 +213,10 @@
 			So, please let me go. <br/>
 			<span> - The Walters: I Love You So </span>
 		</blockquote>
+		<blockquote class="quote">
+			She's not just another face. <br/>
+			<span> - Modern Baseball: How Do I Tell a Girl I Want to Kiss Her? </span>
+		</blockquote>
 	</div>
 </div>
 
