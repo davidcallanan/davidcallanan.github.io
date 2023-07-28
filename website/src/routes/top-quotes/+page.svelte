@@ -146,7 +146,7 @@
 			<span> - Novo Amor: Carry You </span>
 		</blockquote>
 		<blockquote class="quote">
-			It overtakes me. <br/>
+			Just like the first time. <br/>
 			<span> - April June: The Trip We Never Took </span>
 		</blockquote>
 		<blockquote class="quote">
@@ -190,7 +190,7 @@
 			<span> - Sean Davidson: Maybe Tomorrow </span>
 		</blockquote>
 		<blockquote class="quote">
-			Am I crawling on my knees? <br/>
+			I'm crawling on my knees <br/>
 			<span> - Gert Taberner: Fallen </span>
 		</blockquote>
 		<blockquote class="quote">
@@ -216,6 +216,26 @@
 		<blockquote class="quote">
 			She's not just another face. <br/>
 			<span> - Modern Baseball: How Do I Tell a Girl I Want to Kiss Her? </span>
+		</blockquote>
+		<blockquote class="quote">
+			Not the expression, no, literally give an arm for. <br/>
+			<span> - Eminem: When I'm Gone </span>
+		</blockquote>
+		<blockquote class="quote">
+			But I miss you more each day you're not with me. <br/>
+			<span> - New West: Next to You </span>
+		</blockquote>
+		<blockquote class="quote">
+			When you painted yourself red. <br/>
+			<span> - Flower Face: Another Life </span>
+		</blockquote>
+		<blockquote class="quote">
+			If we were a couple years older. <br/>
+			<span> - Hayd: Closure </span>
+		</blockquote>
+		<blockquote class="quote">
+			In search of someone else. <br/>
+			<span> - Novo Amor: Anchor </span>
 		</blockquote>
 	</div>
 </div>
