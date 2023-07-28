@@ -70,6 +70,7 @@
 				<a href="/top-quotes" class:selected={path === "/top-quotes"}> Top Quotes </a>
 				<a href="/dictionary" class:selected={path === "/dictionary"}> Custom Terminology </a>
 				<a href="/tv-list" class:selected={path === "/tv-list"}> All-Time Movies </a>
+				<a href="/domains" class:selected={path === "/tv-list"}> My Domains </a>
 			</div>
 		{/if}
 	</div>
