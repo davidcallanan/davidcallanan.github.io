@@ -39,7 +39,7 @@
 			Ultimately we conceive our own meaning to life, and it's only relative to our own perspective that we can claim a particular attitude to life is inherently more righteous.
 		</blockquote> -->
 		<blockquote class="quote">
-			The argument that a spider won't kill you is absurd when the opportunity to use your bedside knife will immediately present itself upon a spider landing on your face.
+			The argument that a spider won't kill you is absurd when the opportunity to use your bedside knife will immediately present itself<!-- upon a spider landing on your face-->.
 		</blockquote>
 		<blockquote class="quote">
 			One day you'll pass the best day of your life, and god forbid you notice.
@@ -88,12 +88,18 @@
 			<!-- Intelligence to its limits unlocks the despairing ability to form permanently-unmalleable beliefs of cyclical irreversibility, only pseudo-repairable by substitution of identity and, ultimitely, the loss of soul.		  -->
 			Intelligence to its limits unlocks the despairing ability to form permanently-unmalleable beliefs of cyclical irreversibility, only pseudo-repairable by the substitution of identity and, ultimitely, the death of soul.		 
 		</blockquote>
+		<blockquote class="quote">
+			Logic is just an illusion to control emotion.
+		</blockquote>
+		<blockquote class="quote">
+			Supressing, for your sake, these truest feelings, is the Devil's temptation I'll never give in to.
+		</blockquote>
 		
 		<br><br>
 
 		<pre style="padding: 0.5rem 1rem;">
 
-			Last updated 2023-03-03.
+			Last updated 2023-08-03.
 
 		</pre>
 
