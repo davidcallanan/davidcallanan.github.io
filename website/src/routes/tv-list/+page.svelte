@@ -17,6 +17,11 @@
 			rotten_tomatoes_url: "https://www.rottentomatoes.com/m/another_round",
 		},
 		{
+			name: "Awakenings",
+			imdb_url: "https://www.imdb.com/title/tt0099077/",
+			rotten_tomatoes_url: "https://www.rottentomatoes.com/m/1032970-awakenings",
+		},
+		{
 			name: "Casablanca",
 			imdb_url: "https://www.imdb.com/title/tt0034583/",
 			rotten_tomatoes_url: "https://www.rottentomatoes.com/m/1003707-casablanca",
