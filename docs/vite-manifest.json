@@ -1,11 +1,11 @@
 {
   "node_modules/.pnpm/@sveltejs+kit@1.0.0-next.505_svelte@3.48.0+vite@3.1.4/node_modules/@sveltejs/kit/src/runtime/client/start.js": {
-    "file": "_app/immutable/start-b99818d3.js",
+    "file": "_app/immutable/start-6550d64b.js",
     "src": "node_modules/.pnpm/@sveltejs+kit@1.0.0-next.505_svelte@3.48.0+vite@3.1.4/node_modules/@sveltejs/kit/src/runtime/client/start.js",
     "isEntry": true,
     "imports": [
       "_index-e9506ef8.js",
-      "_singletons-56665ccf.js"
+      "_singletons-a9e9bb4b.js"
     ],
     "dynamicImports": [
       ".svelte-kit/generated/nodes/0.js",
@@ -19,25 +19,25 @@
     ]
   },
   "src/routes/+layout.svelte": {
-    "file": "_app/immutable/components/pages/_layout.svelte-7de890a7.js",
+    "file": "_app/immutable/components/pages/_layout.svelte-d4df3d4a.js",
     "src": "src/routes/+layout.svelte",
     "isEntry": true,
     "imports": [
       "_index-e9506ef8.js",
-      "_stores-e599da08.js",
-      "_singletons-56665ccf.js"
+      "_stores-2027714a.js",
+      "_singletons-a9e9bb4b.js"
     ],
     "css": [
       "_app/immutable/assets/_layout-da32b7e9.css"
     ]
   },
   "node_modules/.pnpm/@sveltejs+kit@1.0.0-next.505_svelte@3.48.0+vite@3.1.4/node_modules/@sveltejs/kit/src/runtime/components/error.svelte": {
-    "file": "_app/immutable/components/error.svelte-e91850f6.js",
+    "file": "_app/immutable/components/error.svelte-a58eb2db.js",
     "src": "node_modules/.pnpm/@sveltejs+kit@1.0.0-next.505_svelte@3.48.0+vite@3.1.4/node_modules/@sveltejs/kit/src/runtime/components/error.svelte",
     "isEntry": true,
     "imports": [
       "_index-e9506ef8.js",
-      "_stores-e599da08.js"
+      "_stores-2027714a.js"
     ]
   },
   "src/routes/+page.svelte": {
@@ -85,7 +85,7 @@
     ]
   },
   "src/routes/top-quotes/+page.svelte": {
-    "file": "_app/immutable/components/pages/top-quotes/_page.svelte-d2c981be.js",
+    "file": "_app/immutable/components/pages/top-quotes/_page.svelte-1b06e63f.js",
     "src": "src/routes/top-quotes/+page.svelte",
     "isEntry": true,
     "imports": [
@@ -114,8 +114,8 @@
       "__layout-ac73bac2.js"
     ]
   },
-  "_singletons-56665ccf.js": {
-    "file": "_app/immutable/chunks/singletons-56665ccf.js",
+  "_singletons-a9e9bb4b.js": {
+    "file": "_app/immutable/chunks/singletons-a9e9bb4b.js",
     "imports": [
       "_index-e9506ef8.js"
     ]
@@ -123,18 +123,18 @@
   "_index-e9506ef8.js": {
     "file": "_app/immutable/chunks/index-e9506ef8.js"
   },
-  "_stores-e599da08.js": {
-    "file": "_app/immutable/chunks/stores-e599da08.js",
+  "_stores-2027714a.js": {
+    "file": "_app/immutable/chunks/stores-2027714a.js",
     "imports": [
       "_index-e9506ef8.js",
-      "_singletons-56665ccf.js"
+      "_singletons-a9e9bb4b.js"
     ]
   },
   "__layout-ac73bac2.js": {
     "file": "_app/immutable/chunks/_layout-ac73bac2.js"
   },
   ".svelte-kit/generated/nodes/0.js": {
-    "file": "_app/immutable/chunks/0-ed9ff0b1.js",
+    "file": "_app/immutable/chunks/0-a5a4c269.js",
     "src": ".svelte-kit/generated/nodes/0.js",
     "isDynamicEntry": true,
     "imports": [
@@ -143,7 +143,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/1.js": {
-    "file": "_app/immutable/chunks/1-8d3d5353.js",
+    "file": "_app/immutable/chunks/1-50443225.js",
     "src": ".svelte-kit/generated/nodes/1.js",
     "isDynamicEntry": true,
     "imports": [
@@ -183,7 +183,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/6.js": {
-    "file": "_app/immutable/chunks/6-83e64b32.js",
+    "file": "_app/immutable/chunks/6-e5dfbed5.js",
     "src": ".svelte-kit/generated/nodes/6.js",
     "isDynamicEntry": true,
     "imports": [
@@ -198,6 +198,14 @@
       "src/routes/tv-list/+page.svelte"
     ]
   },
+  "src/routes/+layout.css": {
+    "file": "_app/immutable/assets/_layout-da32b7e9.css",
+    "src": "src/routes/+layout.css"
+  },
+  "src/routes/dictionary/+page.css": {
+    "file": "_app/immutable/assets/_page-ce670966.css",
+    "src": "src/routes/dictionary/+page.css"
+  },
   "src/routes/top-quotes/+page.css": {
     "file": "_app/immutable/assets/_page-af08e20f.css",
     "src": "src/routes/top-quotes/+page.css"
@@ -206,24 +214,16 @@
     "file": "_app/immutable/assets/_page-775a4a6b.css",
     "src": "src/routes/+page.css"
   },
-  "src/routes/quotes/+page.css": {
-    "file": "_app/immutable/assets/_page-daf83ef7.css",
-    "src": "src/routes/quotes/+page.css"
-  },
   "src/routes/domains/+page.css": {
     "file": "_app/immutable/assets/_page-2c5536e5.css",
     "src": "src/routes/domains/+page.css"
   },
+  "src/routes/quotes/+page.css": {
+    "file": "_app/immutable/assets/_page-daf83ef7.css",
+    "src": "src/routes/quotes/+page.css"
+  },
   "src/routes/tv-list/+page.css": {
     "file": "_app/immutable/assets/_page-edc2d1d8.css",
     "src": "src/routes/tv-list/+page.css"
-  },
-  "src/routes/+layout.css": {
-    "file": "_app/immutable/assets/_layout-da32b7e9.css",
-    "src": "src/routes/+layout.css"
-  },
-  "src/routes/dictionary/+page.css": {
-    "file": "_app/immutable/assets/_page-ce670966.css",
-    "src": "src/routes/dictionary/+page.css"
   }
 }

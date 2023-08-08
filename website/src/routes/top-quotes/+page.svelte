@@ -190,7 +190,7 @@
 			<span> - Sean Davidson: Maybe Tomorrow </span>
 		</blockquote>
 		<blockquote class="quote">
-			I'm crawling on my knees <br/>
+			I'm crawling on my knees. <br/>
 			<span> - Gert Taberner: Fallen </span>
 		</blockquote>
 		<blockquote class="quote">
@@ -236,6 +236,14 @@
 		<blockquote class="quote">
 			In search of someone else. <br/>
 			<span> - Novo Amor: Anchor </span>
+		</blockquote>
+		<blockquote class="quote">
+			And suffer death, a thousand times. <br/>
+			<span> - Christy Moore: Black Is the Colour </span>
+		</blockquote>
+		<blockquote class="quote">
+			So I wrote this song for you, now everybody knows. <br/>
+			<span> - James Arthur: Say You Won't Let Go </span>
 		</blockquote>
 	</div>
 </div>
