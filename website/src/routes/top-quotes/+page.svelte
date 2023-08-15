@@ -238,12 +238,24 @@
 			<span> - Novo Amor: Anchor </span>
 		</blockquote>
 		<blockquote class="quote">
-			And suffer death, a thousand times. <br/>
+			And I suffer death, a thousand times. <br/>
 			<span> - Christy Moore: Black Is the Colour </span>
 		</blockquote>
 		<blockquote class="quote">
 			So I wrote this song for you, now everybody knows. <br/>
 			<span> - James Arthur: Say You Won't Let Go </span>
+		</blockquote>
+		<blockquote class="quote">
+			Nothing worse than losin' a friend. <br/>
+			<span> - Lil Peep: Haunt U </span>
+		</blockquote>
+		<blockquote class="quote">
+			Life is short as the fallin' of snow. <br/>
+			<span> - Coldplay: Everglow </span>
+		</blockquote>
+		<blockquote class="quote">
+			And remember how to love. <br/>
+			<span> - Matt Simons: Catch & Release </span>
 		</blockquote>
 	</div>
 </div>

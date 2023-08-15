@@ -84,15 +84,18 @@
 		<blockquote class="quote">
 			You can only carry guilt toward someone you love more than returned.			 
 		</blockquote>
-		<blockquote class="quote">
-			<!-- Intelligence to its limits unlocks the despairing ability to form permanently-unmalleable beliefs of cyclical irreversibility, only pseudo-repairable by substitution of identity and, ultimitely, the loss of soul.		  -->
+		<!-- <blockquote class="quote">
+			<!*-- Intelligence to its limits unlocks the despairing ability to form permanently-unmalleable beliefs of cyclical irreversibility, only pseudo-repairable by substitution of identity and, ultimitely, the loss of soul.		  --*>
 			Intelligence to its limits unlocks the despairing ability to form permanently-unmalleable beliefs of cyclical irreversibility, only pseudo-repairable by the substitution of identity and, ultimitely, the death of soul.		 
-		</blockquote>
+		</blockquote> -->
 		<blockquote class="quote">
 			Logic is just an illusion to control emotion.
 		</blockquote>
 		<blockquote class="quote">
-			Supressing, for your sake, these truest feelings, is the Devil's temptation I'll never give in to.
+			Supressing, for your sake, these truest feelings, is the Devil's temptation I'll never entertain.
+		</blockquote>
+		<blockquote class="quote">
+			Everyone makes mistakes sometimes. It's just that some make more than others.
 		</blockquote>
 		
 		<br><br>
