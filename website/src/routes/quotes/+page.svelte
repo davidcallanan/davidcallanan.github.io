@@ -97,12 +97,15 @@
 		<blockquote class="quote">
 			Everyone makes mistakes sometimes. It's just that some make more than others.
 		</blockquote>
+		<blockquote class="quote">
+			The Devil's playing disguised as God's test.
+		</blockquote>
 		
 		<br><br>
 
 		<pre style="padding: 0.5rem 1rem;">
 
-			Last updated 2023-08-03.
+			Last updated 2023-08-20.
 
 		</pre>
 
