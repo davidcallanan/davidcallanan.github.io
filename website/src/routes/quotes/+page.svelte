@@ -50,9 +50,9 @@
 		<blockquote class="quote">
 			We're all working towards nothing together.
 		</blockquote>
-		<blockquote class="quote">
+		<!-- <blockquote class="quote">
 			Many a hand does the devil's work.
-		</blockquote>
+		</blockquote> -->
 		<blockquote class="quote">
 			Broken bones will eventually heal, but in you, those words, will be permanently sealed.
 		</blockquote>
@@ -100,12 +100,15 @@
 		<blockquote class="quote">
 			The Devil's playing disguised as God's test.
 		</blockquote>
+		<blockquote class="quote">
+			<!-- GH Copilot: Strength conjured from weakness is the most powerful strength of all. -->
+			Strength conjured from recurrent pain, concealing numbness.
+		</blockquote>
 		
 		<br><br>
-
 		<pre style="padding: 0.5rem 1rem;">
 
-			Last updated 2023-08-20.
+			Last updated 2023-08-25.
 
 		</pre>
 
