@@ -102,7 +102,7 @@
 		</blockquote>
 		<blockquote class="quote">
 			<!-- GH Copilot: Strength conjured from weakness is the most powerful strength of all. -->
-			Strength conjured from recurrent pain, concealing numbness.
+			Strength conjured from recurrent pain conceals numbness.
 		</blockquote>
 		
 		<br><br>
