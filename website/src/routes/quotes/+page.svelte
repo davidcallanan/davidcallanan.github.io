@@ -60,7 +60,8 @@
 			A watched kettle eventually boils.
 		</blockquote>
 		<blockquote class="quote">
-			A carefully-crafted card paints a thousand presents.
+			<!-- A carefully-crafted card paints a thousand presents. -->
+			A carefully-crafted card is a thousand presents.
 		</blockquote>
 		<blockquote class="quote">
 			The beautiful strawberry who broke my camel's back.

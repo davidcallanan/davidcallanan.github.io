@@ -6,7 +6,7 @@
 			</div>
 			<div class="title">
 				<h1> David Callanan </h1>
-				<h2> Software Engineer & Theoretical Researcher </h2>
+				<h2> Senior SE & Theoretical Researcher </h2>
 			</div>
 		</div>
 
@@ -20,8 +20,8 @@
 		</p>
 		
 		<p>
-			Hey. I'm David, a senior software engineer with a strong passion for technical and theoretical research, covering many areas, from software architecture and crypto technology, to programming language design and rigorously-formulated foundations for economic systems.
-			My areas of expertise include full-stack web development, on-chain development, pure mathematics, and economic exploration. If you must know, I mostly use JavaScript – <a href="https://github.com/davidcallanan/js-utils-of-essence">but on steroids</a>.
+			Hey. I'm David, an experienced software engineer with a strong passion for technical and theoretical research, ranging from software architecture and crypto technology, to programming language design and original economic research.
+			My areas of expertise include full-stack web development, distributed state management, pure mathematics, and rigorous theoretical exploration. If you must know, I mostly use JavaScript – <a href="https://github.com/davidcallanan/js-uoe" target="_blank">but on steroids</a>.
 		</p>
 
 		<h2 class="h1" id="education"> Education </h2>
@@ -29,7 +29,7 @@
 		<div>
 			<ul>
 				<li>
-					Maynooth University — <a href="https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/courses/bsc-computational-thinking">Bachelor of Science, Computational Thinking</a> (2021-2025)<br>
+					Maynooth University — <a href="https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/courses/bsc-computational-thinking">Bachelor of Science, Computational Thinking</a> (2 years remaining)<br>
 					<ul>
 						<li>
 							Computer Science, Pure Mathematics and Philosophy (Accelerated Degree)
@@ -62,10 +62,10 @@
 				<a href="https://dltcapital.ie" target="_blank">DLT Capital Ireland</a> (2021-present)
 				<ul>
 					<li>
-						Senior Software Engineer (2022-present)
+						Full-Stack Developer (2021)
 					</li>
 					<li>
-						Full-Stack Developer (2021)
+						Senior SE (2022-present)
 					</li>
 				</ul>
 			</li>
@@ -92,6 +92,7 @@
 		<ul>
 			<li><a href="https://gamepack.jiroplay.com/">JiroPlay</a> <sub>(BETA)</sub> (2017-2020)
 				<ul>
+					<li>Temporarily abandoned.</li>
 					<li>A proof-of-concept gaming platform where your phone acts like a virtual controller and your laptop/tablet acts like a virtual console.</li>
 				</ul>
 				<details> <summary> More Info </summary> <ul> <li> Takes advantage of WebRTC communication to reduce latency and server infrastructure needed. </li> <li> This was just a fun project and so the sample games are not high-quality. </li> <li> Knows issues: The platform does not work as reliably over hotspots, mobile data, public WiFi and in locations with firewall limitations. It is preferable for everyone to be on the same LAN network and to ensure that direct LAN communication is not blocked. There may be connection issues on older devices. </li> </ul> </details>
