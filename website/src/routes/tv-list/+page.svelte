@@ -117,6 +117,11 @@
 			rotten_tomatoes_url: "https://www.rottentomatoes.com/m/the_night_before_2015",
 		},
 		{
+			name: "The Perks of Being a Wallflower",
+			imdb_url: "https://www.imdb.com/title/tt1659337/",
+			rotten_tomatoes_url: "https://www.rottentomatoes.com/m/the_perks_of_being_a_wallflower",
+		},
+		{
 			name: "The Pursuit of Happyness",
 			imdb_url: "https://www.imdb.com/title/tt0454921/",
 			rotten_tomatoes_url: "https://www.rottentomatoes.com/m/pursuit_of_happyness",
