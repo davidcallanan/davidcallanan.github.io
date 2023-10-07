@@ -18,6 +18,23 @@
 			<a href="https://www.linkedin.com/in/davidpcallanan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt=""></a>
 			<a href="https://youtube.com/CodePulse"><img src="https://img.shields.io/badge/YouTube-DD0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt=""></a>
 		</p>
+
+		<div class="rip-wrapper">
+			<div class="rip">
+				<img src="/rick.png"/>
+				<div class="rip-inner">
+					<h3> Rick Callanan 1994&ndash;2023 </h3>
+					<blockquote>
+						But the changin' of winds and the way waters flow<br>
+						Life is short as the fallin' of snow<br>
+						And now I'm gonna miss you, I know
+					</blockquote>
+					<p>
+						Rest in piece my brother.
+					</p>
+				</div>
+			</div>
+		</div>
 		
 		<p>
 			Hey. I'm David, an experienced software engineer with a strong passion for technical and theoretical research, ranging from software architecture and crypto technology, to programming language design and original economic research.
@@ -198,6 +215,49 @@
 		margin-bottom: 1rem;
 		padding-bottom: 0.5rem;
 		margin-top: 1.5rem;
+	}
+
+	.rip-wrapper {
+		display: flex;
+		justify-content: center;
+	}
+
+	.rip {
+		display: flex;
+		border: 2px solid green;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 0.875rem;
+		padding: 0.125rem 0.5rem;
+		gap: 0.5rem;
+		align-items: center;
+	}
+
+	.rip img {
+		width: 75px;
+		border: 2px solid black;
+	}
+
+	.rip h3 {
+		font-size: 1rem;
+	}
+
+	.rip p {
+		font-size: 0.875rem;
+		margin-top: 0.25rem;
+		margin-bottom: 0;
+	}
+
+	.rip blockquote {
+		font-style: italic;
+		color: gray;
+	}
+
+	.rip blockquote::before {
+		content: '\201C';
+	}
+
+	.rip blockquote::after {
+		content: '\201D';
 	}
 
 </style>
