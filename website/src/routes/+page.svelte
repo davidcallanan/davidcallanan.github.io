@@ -37,8 +37,8 @@
 		</div>
 		
 		<p>
-			Hey. I'm David, an experienced software engineer with a strong passion for technical and theoretical research, ranging from software architecture and crypto technology, to programming language design and original economic research.
-			My areas of expertise include full-stack web development, distributed state management, pure mathematics, and rigorous theoretical exploration. If you must know, I mostly use JavaScript – <a href="https://github.com/davidcallanan/js-uoe" target="_blank">but on steroids</a>.
+			Hey. I'm David, an experienced software engineer with a strong passion for technical innovation and original research, ranging from software architecture and crypto technology, to programming language design and theoretical economics.
+			My areas of expertise include full-stack web development, distributed state management, pure mathematics, and economic systems. If you must know, I mostly use JavaScript – <a href="https://github.com/davidcallanan/js-uoe" target="_blank">but on steroids</a>.
 		</p>
 
 		<h2 class="h1" id="education"> Education </h2>
@@ -76,13 +76,13 @@
 
 		<ul>
 			<li>
-				<a href="https://dltcapital.ie" target="_blank">DLT Capital Ireland</a> (2021-present)
+				<a href="https://dltcapital.ie" target="_blank">DLT Capital Ireland</a> (2021-2023)
 				<ul>
 					<li>
 						Full-Stack Developer (2021)
 					</li>
 					<li>
-						Senior SE (2022-present)
+						Senior SE (2022-2023)
 					</li>
 				</ul>
 			</li>
