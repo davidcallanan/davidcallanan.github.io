@@ -11,8 +11,8 @@
 			<span> - A YouTube Comment </span>
 		</blockquote>
 		<blockquote class="quote">
-			If he really loves you, he'll leave you alone.<br/>
-			<span> - Some YouTube Video </span>
+			So if he truly did love you, what would he do? He would leave you alone.  <br/>
+			<span> - <a href="https://www.youtube.com/watch?v=FSLjkPfEcOg&t=392" target="_blank">Frank Turek</a> </span>
 		</blockquote>
 
 		<br/><br/>
@@ -256,6 +256,10 @@
 		<blockquote class="quote">
 			And remember how to love. <br/>
 			<span> - Matt Simons: Catch & Release </span>
+		</blockquote>
+		<blockquote class="quote">
+			No matter where I wander I'm still haunted by your name. <br/>
+			<span> - Christy Moore: Nancy Spain </span>
 		</blockquote>
 	</div>
 </div>

@@ -39,7 +39,8 @@
 			Ultimately we conceive our own meaning to life, and it's only relative to our own perspective that we can claim a particular attitude to life is inherently more righteous.
 		</blockquote> -->
 		<blockquote class="quote">
-			The argument that a spider won't kill you is absurd when the opportunity to use your bedside knife will immediately present itself<!-- upon a spider landing on your face-->.
+			<!-- The argument that a spider won't kill you is absurd when the opportunity to use your bedside knife will immediately present itself<!*-- upon a spider landing on your face-*->. -->
+			The argument that a spider won't harm you is irrelevant when its landing on your face invites the prompt drawal of your bedside knife.
 		</blockquote>
 		<blockquote class="quote">
 			One day you'll pass the best day of your life, and god forbid you notice.
@@ -80,7 +81,8 @@
 			I'm grateful for the awareness of how much more grateful I should be.
 		</blockquote>
 		<blockquote class="quote">
-			In great strength lies my greatest weakness, for its determination leads to the repudiation of the unattainable.
+			In great strength lies my greatest weakness, for its determination leads to the repudiation of the notion of the unattainable.
+			<!-- Needs work. -->
 		</blockquote>
 		<blockquote class="quote">
 			You can only carry guilt toward someone you love more than returned.			 
@@ -96,7 +98,7 @@
 			Supressing, for your sake, these truest feelings, is the Devil's temptation I'll never entertain.
 		</blockquote>
 		<blockquote class="quote">
-			Everyone makes mistakes sometimes. It's just that some make more than others.
+			Everyone makes mistakes sometimes, it's just that some make more than others.
 		</blockquote>
 		<blockquote class="quote">
 			The Devil's playing disguised as God's test.
