@@ -107,11 +107,14 @@
 			<!-- GH Copilot: Strength conjured from weakness is the most powerful strength of all. -->
 			Strength conjured from recurrent pain conceals numbness.
 		</blockquote>
+		<blockquote class="quote">
+			Trying to love is itself already love, and so one who doesn't possess that immediate capacity has no convinceable stomach to try.
+		</blockquote>
 		
 		<br><br>
 		<pre style="padding: 0.5rem 1rem;">
 
-			Last updated 2023-08-25.
+			Last updated 2023-11-12.
 
 		</pre>
 
