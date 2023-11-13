@@ -261,6 +261,10 @@
 			No matter where I wander I'm still haunted by your name. <br/>
 			<span> - Christy Moore: Nancy Spain </span>
 		</blockquote>
+		<blockquote class="quote">
+			I could stick around and get along with you. <br/>
+			<span> - Dragonette: Hello </span>
+		</blockquote>
 	</div>
 </div>
 
