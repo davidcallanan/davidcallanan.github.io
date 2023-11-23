@@ -1,4 +1,4 @@
-import{S as $,i as tt,s as et,k as s,q as c,a as b,l,m as d,r as h,h as o,c as _,p as Y,n as f,b as F,E as t,A as G}from"../../../chunks/index-e9506ef8.js";function at(Z){let n,e,y,g,B,z,R,C,L,i,k,O,A,u,D,H,I,p,q,K,P,Q,S,T,U,m,V,E,w;return{c(){n=s("div"),e=s("div"),y=s("h2"),g=c("Custom coined terminology"),B=c(`\r
+import{S as $,i as tt,s as et,k as s,q as c,a as b,l,m as d,r as h,h as o,c as _,p as Y,n as f,b as F,E as t,A as G}from"../../../chunks/index-46e3bee9.js";function at(Z){let n,e,y,g,B,z,R,C,L,i,k,O,A,u,D,H,I,p,q,K,P,Q,S,T,U,m,V,E,w;return{c(){n=s("div"),e=s("div"),y=s("h2"),g=c("Custom coined terminology"),B=c(`\r
 		\xA0\r
 		`),z=s("hr"),R=b(),C=s("br"),L=b(),i=s("blockquote"),k=s("b"),O=c("gainflation tax"),A=c(" \u2014 "),u=s("a"),D=c('the hidden tax on "phantom" gains from your attempt to escape inflation'),H=c("."),I=b(),p=s("blockquote"),q=s("b"),K=c("quoetry"),P=c(" \u2014 some of my quotes deserve the status of poetry, and hence, quoetry: a short poem written with inline text (no line breaks)."),Q=b(),S=s("br"),T=s("br"),U=b(),m=s("pre"),V=c(`\r
 			Last updated 2022-12-09.\r
