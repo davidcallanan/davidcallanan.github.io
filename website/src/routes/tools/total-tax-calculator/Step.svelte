@@ -44,7 +44,7 @@
 	<Box type="exclusive" on_total_change={(total) => exclusive_total = total}/>
 </div>
 
-<span style="color: gray; font-size: 0.875rem;">Numerator:</span> {numerator.toFixed(2)}% - <span style="color: gray; font-size: 0.875rem;">Denominator:</span> {denominator.toFixed(2)}%<br/>
+<span style="color: gray; font-size: 0.875rem;">Numerator:</span> {numerator.toFixed(2)}% <span style="color: gray; font-size: 0.875rem;">- Denominator:</span> {denominator.toFixed(2)}%<br/>
 
 <span style="border: 1px solid #ddd; display: inline-block; margin: 0.25rem; background: #eee;">
 	{#if real_repeat_count != 1}

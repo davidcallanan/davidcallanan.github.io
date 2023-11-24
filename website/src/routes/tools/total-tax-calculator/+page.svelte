@@ -1,7 +1,7 @@
 <script>
     import Step from "./Step.svelte";
 
-	let steps = [{}];
+	let steps = [{ key: 1 }];
 	let step_totals = [ { total: 0, }];
 
 	const number_or_one = (num) => {
@@ -13,7 +13,7 @@
 	$: real_overall_repeat = number_or_one(overall_repeat);
 	
 	const add_step = () => {
-		steps.push({});
+		steps.push({ key: Math.random() });
 		steps = steps;
 		step_totals.push({ total: 0, });
 		step_totals = step_totals;
@@ -49,8 +49,10 @@
 		<h3> Total Tax Calculator </h3>
 		<hr/>
 		
-		{#each [...steps.entries()] as [i, step] (i)}
+		{#each [...steps.entries()] as [i, step] (step.key)}
 			<Step step_number={i + 1} remove_step={() => {
+				step_totals.splice(i, 1);
+				step_totals = step_totals;
 				steps.splice(i, 1);
 				steps = steps;
 			}} on_total_change={(total) => change_total(total, i)}/>
