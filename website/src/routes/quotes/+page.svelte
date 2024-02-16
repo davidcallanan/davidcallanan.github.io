@@ -15,9 +15,9 @@
 		<blockquote class="quote">
 			Life is like a box of chocolates, it's the worst gift you can give anyone.
 		</blockquote>
-		<blockquote class="quote">
+		<!-- <blockquote class="quote">
 			Life might be like a box of chocolates, but don't let it be the worst gift you ever receive.
-		</blockquote>
+		</blockquote> -->
 		<blockquote class="quote">
 			I wonder is there a parallel universe where there's no such thing as parallel universes?
 		</blockquote>
@@ -81,7 +81,7 @@
 			I'm grateful for the awareness of how much more grateful I should be.
 		</blockquote>
 		<blockquote class="quote">
-			In great strength lies my greatest weakness, for its determination leads to the repudiation of the notion of the unattainable.
+			In great strength lies my greatest weakness, for its determination leads to the repudiation of unattainability.
 			<!-- Needs work. -->
 		</blockquote>
 		<blockquote class="quote">
