@@ -80,6 +80,19 @@
 		</tr>
 		<tr>
 			<td>
+				<a href="https://jiro.gg">
+					jiro.gg
+				</a>
+			</td>
+			<td>
+				David & Dennis Callanan
+			</td>
+			<td>
+				A new couch-gaming experience
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<a href="https://sliparu.com">
 					sliparu.com
 				</a>
@@ -115,6 +128,19 @@
 			</td>
 			<td>
 				Ethereum Blockchain APIs
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://codepul.se">
+					codepul.se
+				</a>
+			</td>
+			<td>
+				David Callanan
+			</td>
+			<td>
+				CodePulse
 			</td>
 		</tr>
 		<tr>
