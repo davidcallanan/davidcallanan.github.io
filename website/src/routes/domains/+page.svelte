@@ -117,6 +117,19 @@
 				Ethereum Blockchain APIs
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="https://appalias.com">
+					appalias.com
+				</a>
+			</td>
+			<td>
+				Callanan Family
+			</td>
+			<td>
+				A domain to house various projects
+			</td>
+		</tr>
 	</tbody>
 </table>
 
