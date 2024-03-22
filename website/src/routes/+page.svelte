@@ -38,7 +38,7 @@
 		
 		<p>
 			Hey. I'm David, an experienced software engineer with a strong passion for technical innovation and original research, ranging from software architecture and crypto technology, to programming language design and theoretical economics.
-			My areas of expertise include full-stack web development, distributed state management, pure mathematics, and economic systems. If you must know, I mostly use JavaScript – <a href="https://github.com/davidcallanan/js-uoe" target="_blank">but on steroids</a>.
+			My areas of expertise include full-stack web development, distributed state management, pure mathematics, and economic systems. If you must know, I mostly use JavaScript – <a href="https://uoe.dcallanan.com" target="_blank">but on steroids</a>.
 		</p>
 
 		<h2 class="h1" id="education"> Education </h2>
