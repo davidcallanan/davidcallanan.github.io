@@ -37,8 +37,8 @@
 		</div>
 		
 		<p>
-			Hey. I'm David, an experienced software engineer with a strong passion for technical innovation and original research, ranging from software architecture and crypto technology, to programming language design and theoretical economics.
-			My areas of expertise include full-stack web development, distributed state management, pure mathematics, and economic systems. If you must know, I mostly use JavaScript – <a href="https://uoe.dcallanan.com" target="_blank">but on steroids</a>.
+			Hey. I'm David, an experienced software engineer with a strong passion for technical innovation and theoretical research, ranging from software architecture and crypto technology, to programming language design and economics.
+			My areas of expertise include full-stack web development, distributed state management, and pure mathematics. If you must know, I mostly use JavaScript – <a href="https://uoe.dcallanan.com" target="_blank">but on steroids</a>.
 		</p>
 
 		<h2 class="h1" id="education"> Education </h2>
@@ -79,15 +79,26 @@
 				<a href="https://dltcapital.ie" target="_blank">DLT Capital Ireland</a> (2021-2023)
 				<ul>
 					<li>
-						Full-Stack Developer (2021)
+						Senior SE (2022-2023)
 					</li>
 					<li>
-						Senior SE (2022-2023)
+						Full-Stack Developer (2021)
 					</li>
 				</ul>
 			</li>
 			<li>
-				McDonald's Crew Member (2022-present)
+				McDonald's (2022-present)
+				<ul>
+					<li>
+						Shift Manager (2024-present)
+					</li>
+					<li>
+						Crew Trainer (2023)
+					</li>
+					<li>
+						Crew Member (2022)
+					</li>
+				</ul>
 			</li>
 		</ul>
 
@@ -100,6 +111,7 @@
 				<ul>
 					<li>2048 Tetris - <a href="https://david.callanan.ie/2048-tetris">Play</a> • <a href="https://github.com/davidcallanan/2048-tetris">GitHub Repo</a></li>
 					<li>30 Second Number Smash - <a href="https://david.callanan.ie/30-second-number-smash">Play</a> • <a href="https://github.com/davidcallanan/30-second-number-smash">GitHub Repo</a></li>
+					<li>Five Nights at Maccies - <a href="https://fnam.dcallanan.com/">Play</a> • <a href="https://www.youtube.com/watch?v=bP5xSA8uU3A">Gameplay Footage</a></li>
 				</ul>
 			</li>
 		</ul>
@@ -109,7 +121,7 @@
 		<ul>
 			<li><a href="https://gamepack.jiroplay.com/">JiroPlay</a> <sub>(BETA)</sub> (2017-2020)
 				<ul>
-					<li>Temporarily abandoned.</li>
+					<li>Temporarily abandoned. Not reliable on Apple devices.</li>
 					<li>A proof-of-concept gaming platform where your phone acts like a virtual controller and your laptop/tablet acts like a virtual console.</li>
 				</ul>
 				<details> <summary> More Info </summary> <ul> <li> Takes advantage of WebRTC communication to reduce latency and server infrastructure needed. </li> <li> This was just a fun project and so the sample games are not high-quality. </li> <li> Knows issues: The platform does not work as reliably over hotspots, mobile data, public WiFi and in locations with firewall limitations. It is preferable for everyone to be on the same LAN network and to ensure that direct LAN communication is not blocked. There may be connection issues on older devices. </li> </ul> </details>

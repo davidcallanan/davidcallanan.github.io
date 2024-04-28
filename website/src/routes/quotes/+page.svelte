@@ -6,9 +6,9 @@
 		<hr>
 		<br>
 
-		<blockquote class="quote">
+		<!-- <blockquote class="quote">
 			Life is just one big distraction.
-		</blockquote>
+		</blockquote> -->
 		<blockquote class="quote">
 			Life's worth taking risks.
 		</blockquote>
@@ -38,10 +38,10 @@
 		<!-- <blockquote class="quote">
 			Ultimately we conceive our own meaning to life, and it's only relative to our own perspective that we can claim a particular attitude to life is inherently more righteous.
 		</blockquote> -->
-		<blockquote class="quote">
+		<!--<blockquote class="quote">-->
 			<!-- The argument that a spider won't kill you is absurd when the opportunity to use your bedside knife will immediately present itself<!*-- upon a spider landing on your face-*->. -->
-			The argument that a spider won't harm you is irrelevant when its landing on your face invites the prompt drawal of your bedside knife.
-		</blockquote>
+			<!--The argument that a spider won't harm you is irrelevant when its landing on your face invites the prompt drawal of your bedside knife.
+		</blockquote>-->
 		<blockquote class="quote">
 			One day you'll pass the best day of your life, and god forbid you notice.
 		</blockquote>

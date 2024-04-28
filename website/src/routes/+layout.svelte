@@ -66,8 +66,8 @@
 					<a href="https://youtube.com/CodePulse"><img src="https://img.shields.io/badge/YT-DD0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt=""></a>
 				</div>
 				<a href="/" class:selected={path === "/"}> Home </a>
-				<a href="/quotes" class:selected={path === "/quotes"}> Personal Quotes </a>
 				<a href="/top-quotes" class:selected={path === "/top-quotes"}> Top Quotes </a>
+				<a href="/quotes" class:selected={path === "/quotes"}> Personal Quotes </a>
 				<a href="/dictionary" class:selected={path === "/dictionary"}> Custom Terminology </a>
 				<a href="/tv-list" class:selected={path === "/tv-list"}> All-Time Movies </a>
 				<a href="/domains" class:selected={path === "/domains"}> My Domains </a>
