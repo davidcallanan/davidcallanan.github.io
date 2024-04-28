@@ -30,7 +30,7 @@
 						And now I'm gonna miss you, I know
 					</blockquote>
 					<p>
-						Rest in piece my brother.
+						Rest in peace my brother.
 					</p>
 				</div>
 			</div>
