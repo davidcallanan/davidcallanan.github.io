@@ -89,7 +89,7 @@
 		</blockquote>
 		<blockquote class="quote">
 			<!-- Intelligence to its limits unlocks the despairing ability to form permanently-unmalleable beliefs of cyclical irreversibility, only pseudo-repairable by substitution of identity and, ultimitely, the loss of soul.		  -->
-			Intelligence to its limits unlocks the despairing ability to form permanently-unmalleable beliefs of cyclical irreversibility, only pseudo-repairable by the substitution of identity and, ultimitely, the death of soul.		 
+			Intelligence to its limits unlocks the despairing ability to form permanently-unmalleable beliefs of cyclical irreversibility, only pseudo-repairable by the substitution of identity and, ultimately, the death of soul.		 
 		</blockquote>
 		<blockquote class="quote">
 			Logic is just an illusion to control emotion.
