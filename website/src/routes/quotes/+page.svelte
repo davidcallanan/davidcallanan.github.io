@@ -6,12 +6,12 @@
 		<hr>
 		<br>
 
-		<!-- <blockquote class="quote">
-			Life is just one big distraction.
-		</blockquote> -->
 		<blockquote class="quote">
-			Life's worth taking risks.
+			Life is just one big distraction.
 		</blockquote>
+		<!-- <blockquote class="quote">
+			Life's worth taking risks.
+		</blockquote> -->
 		<blockquote class="quote">
 			Life is like a box of chocolates, it's the worst gift you can give anyone.
 		</blockquote>
@@ -57,15 +57,15 @@
 		<blockquote class="quote">
 			Broken bones will eventually heal, but in you, those words, will be permanently sealed.
 		</blockquote>
-		<blockquote class="quote">
+		<!-- <blockquote class="quote">
 			A watched kettle eventually boils.
-		</blockquote>
+		</blockquote> -->
 		<blockquote class="quote">
 			<!-- A carefully-crafted card paints a thousand presents. -->
 			A carefully-crafted card is a thousand presents.
 		</blockquote>
 		<blockquote class="quote">
-			The beautiful strawberry who broke my camel's back.
+			The strawberry who broke my camel's back.
 		</blockquote>
 		<!-- <blockquote class="quote">
 			Pain is the ultimate beauty.
@@ -77,9 +77,9 @@
 			<a href="data:text/html,&lt;div style=&quot;text-align: center&quot;&gt;&lt;p style=&quot;font-family: monospace; display: inline-block; font-size: 1rem; text-align: left; margin-top: 5rem; padding: 3rem 5rem; border: 1px solid rgb(220, 220, 220);&quot;&gt;&lt;b&gt;Missing You Again&lt;/b&gt;&lt;br&gt;&lt;i&gt;David P. Callanan&lt;/i&gt;&lt;br&gt;&lt;br&gt;I was missing you&lt;br&gt;But I was missing you less&lt;br&gt;Until your smile of beauty&lt;br&gt;so true&lt;br&gt;resurfaced.&lt;br&gt;the Love for you I can't express&lt;br&gt;&lt;br&gt;Shall I be missing you again?%3C/p%3E%3C/div%3E"
 			target="_blank">I was missing <i>you</i>; but I was missing you <i>less</i>. Until your smile of beauty, so <i>true</i>, re<i>surfaced</i>: the <i>love</i> for <i>you</i> I <i>can't</i> <span>ex<i>press</i></span>. Shall I be missing you again?</a>
 		</blockquote>
-		<blockquote class="quote">
+		<!-- <blockquote class="quote">
 			I'm grateful for the awareness of how much more grateful I should be.
-		</blockquote>
+		</blockquote> -->
 		<blockquote class="quote">
 			In great strength lies my greatest weakness, for its determination leads to the repudiation of unattainability.
 			<!-- Needs work. -->
@@ -87,10 +87,10 @@
 		<blockquote class="quote">
 			You can only carry guilt toward someone you love more than returned.			 
 		</blockquote>
-		<!-- <blockquote class="quote">
-			<!*-- Intelligence to its limits unlocks the despairing ability to form permanently-unmalleable beliefs of cyclical irreversibility, only pseudo-repairable by substitution of identity and, ultimitely, the loss of soul.		  --*>
+		<blockquote class="quote">
+			<!-- Intelligence to its limits unlocks the despairing ability to form permanently-unmalleable beliefs of cyclical irreversibility, only pseudo-repairable by substitution of identity and, ultimitely, the loss of soul.		  -->
 			Intelligence to its limits unlocks the despairing ability to form permanently-unmalleable beliefs of cyclical irreversibility, only pseudo-repairable by the substitution of identity and, ultimitely, the death of soul.		 
-		</blockquote> -->
+		</blockquote>
 		<blockquote class="quote">
 			Logic is just an illusion to control emotion.
 		</blockquote>
