@@ -1,3 +1,19 @@
+<script>
+
+	import { onMount } from 'svelte';
+
+	let is_first_anniv = false;
+
+	onMount(() => {
+		const date = new Date();
+
+		if (date.getDate() === 16 && date.getMonth() === 7 && date.getFullYear() === 2024) {
+			is_first_anniv = true;
+		}
+	});
+
+</script>
+
 <div class="wrapper">
 	<div class="container">
 		<div class="header">
@@ -19,11 +35,19 @@
 			<a href="https://youtube.com/CodePulse"><img src="https://img.shields.io/badge/YouTube-DD0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt=""></a>
 		</p>
 
-		<div class="rip-wrapper">
+		{#if is_first_anniv}
+			<br/><br/><br/><br/><br/>
+		{/if}
+
+		<div class="rip-wrapper" class:modified={is_first_anniv}>
 			<div class="rip">
 				<img src="/rick.png"/>
 				<div class="rip-inner">
-					<h3> Rick Callanan 1994&ndash;2023 </h3>
+					{#if is_first_anniv}
+						<h3> Rick Callanan 1994 &ndash; 16<sup>th</sup> Aug 2023</h3>
+					{:else}
+						<h3> Rick Callanan 1994&ndash;2023</h3>
+					{/if}
 					<blockquote>
 						But the changin' of winds and the way waters flow<br>
 						Life is short as the fallin' of snow<br>
@@ -35,6 +59,28 @@
 				</div>
 			</div>
 		</div>
+
+		{#if is_first_anniv}
+		<br/><br/>
+		<div style="display: flex; align-items: center; justify-content: center;">
+
+		<div style="display: flex; align-items: center; justify-content: center; max-width: 600px; border: 4px solid red; padding: 1rem; border-radius: 1rem;">
+			<img src="/THEDEVILMADEMEDOIT.png" style="width: 200px; border-radius: 0.75rem; border: 2px solid darkblue;"/>
+			<div style="font-family: 'Comic Sans MS', cursive, sans-serif; padding: 1rem;">
+				<b>I am reminded of three years ago, today, when Rick and I decided to watch the new Conjuring movie.</b>
+				<br/><br/>It was terrible in its intended form, so instead, we spent the entire movie laughing our heads off as if it was a feckin' comedy.
+				<br/><br/>I'm sure we ate nothing short of a multipack of KitKat Chunky's that night &ndash; each!
+				<br/><br/>The next month was filled with non-stop inside jokes and imitations based on this absolute disaster of a sequel.
+				<br/><br/>The Devil Made Me Do It!
+				<br/><br/>I wonder will we feel your spooky presence tonight? 👻😂
+			</div>
+		</div>
+		</div>
+		{/if}
+		
+		{#if is_first_anniv}
+			<br/><br/><br/><br/><br/>
+		{/if}
 		
 		<p>
 			Hey. I'm David, an experienced software engineer with a strong passion for technical innovation and theoretical research, ranging from software architecture and crypto technology, to programming language design and economics.
@@ -244,9 +290,20 @@
 		align-items: center;
 	}
 
+	.modified .rip {
+		padding: 0.25rem 1rem;
+		border: 4px solid purple;
+		font-family: "Comic Sans MS", cursive, sans-serif;
+		border-radius: 1rem;
+	}
+
 	.rip img {
 		width: 75px;
 		border: 2px solid black;
+	}
+
+	.modified .rip img {
+		border-radius: 0.75rem;
 	}
 
 	.rip h3 {
