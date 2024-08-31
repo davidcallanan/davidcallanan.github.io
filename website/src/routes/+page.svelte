@@ -22,7 +22,7 @@
 			</div>
 			<div class="title">
 				<h1> David Callanan </h1>
-				<h2> Senior SE & Theoretical Researcher </h2>
+				<h2> Software Engineer & Theoretical Researcher </h2>
 			</div>
 		</div>
 
@@ -125,7 +125,7 @@
 				<a href="https://dltcapital.ie" target="_blank">DLT Capital Ireland</a> (2021-2023)
 				<ul>
 					<li>
-						Senior SE (2022-2023)
+						Lead Software Engineer (2022-2023)
 					</li>
 					<li>
 						Full-Stack Developer (2021)
