@@ -29,9 +29,9 @@
 		<blockquote class="quote">
 			Every positive act has an eventual negative consequence.
 		</blockquote>
-		<!-- <blockquote class="quote">
+		<blockquote class="quote">
 			You must be just about sane enough to question your sanity.
-		</blockquote> -->
+		</blockquote>
 		<!-- <blockquote class="quote">
 			If someone you love is someone you can't live without, then why are you expected to have the strength and attitude to overcome the loss of them?
 		</blockquote>-->
@@ -57,16 +57,16 @@
 		<blockquote class="quote">
 			Broken bones will eventually heal, but in you, those words, will be permanently sealed.
 		</blockquote>
-		<!-- <blockquote class="quote">
+		<blockquote class="quote">
 			A watched kettle eventually boils.
-		</blockquote> -->
+		</blockquote>
 		<blockquote class="quote">
 			<!-- A carefully-crafted card paints a thousand presents. -->
 			A carefully-crafted card is a thousand presents.
 		</blockquote>
-		<blockquote class="quote">
+		<!--<blockquote class="quote">
 			The strawberry who broke my camel's back.
-		</blockquote>
+		</blockquote>-->
 		<!-- <blockquote class="quote">
 			Pain is the ultimate beauty.
 		</blockquote> -->
@@ -81,7 +81,7 @@
 			I'm grateful for the awareness of how much more grateful I should be.
 		</blockquote> -->
 		<blockquote class="quote">
-			In great strength lies my greatest weakness, for its determination leads to the repudiation of unattainability.
+			In great strength lies my greatest weakness, for its determination leads to the repudiation of the unattainable.
 			<!-- Needs work. -->
 		</blockquote>
 		<blockquote class="quote">
@@ -110,11 +110,14 @@
 		<blockquote class="quote">
 			Trying to love is itself already love, and so one who doesn't possess that immediate capacity has no convinceable stomach to try.
 		</blockquote>
+		<blockquote class="quote">
+			Once fueled by the illusion of destiny, spared jestingly.
+		</blockquote>
 		
 		<br><br>
 		<pre style="padding: 0.5rem 1rem;">
 
-			Last updated 2023-11-12.
+			Last updated 2025-04-10.
 
 		</pre>
 
