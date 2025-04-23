@@ -22,6 +22,9 @@
 
 </script>
 
+<div style="width: 100%; box-sizing: border-box; padding: 0.5rem 1rem; background: purple; color: white; font-family: Tahoma; text-align: center;">
+	&mdash;&nbsp;&nbsp; New Website Launched | <a href="https://theorytest.condensis.com/" style="color: lightblue; text-decoration: underline;" target="_blank"> Driving Theory Test Ireland </a>&nbsp;&nbsp;&mdash;	
+</div>
 <div style="display: flex; flex-direction: column; height: 100%;">
 	<div class="header" class:is-home={isHome}>
 		{#if !isHome}
