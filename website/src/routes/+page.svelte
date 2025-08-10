@@ -122,6 +122,14 @@
 
 		<ul>
 			<li>
+				<a href="https://ivi.ie" target="_blank">Innovation Value Institute</a> (2025)
+				<ul>
+					<li>
+						Research Assistant (2025)
+					</li>
+				</ul>
+			</li>
+			<li>
 				<a href="https://dltcapital.ie" target="_blank">DLT Capital Ireland</a> (2021-2023)
 				<ul>
 					<li>
@@ -133,10 +141,10 @@
 				</ul>
 			</li>
 			<li>
-				McDonald's (2022-present)
+				McDonald's (2022-2024)
 				<ul>
 					<li>
-						Shift Manager (2024-present)
+						Shift Manager (2024)
 					</li>
 					<li>
 						Crew Trainer (2023)

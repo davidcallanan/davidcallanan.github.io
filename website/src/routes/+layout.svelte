@@ -22,8 +22,17 @@
 
 </script>
 
-<div style="width: 100%; box-sizing: border-box; padding: 0.5rem 1rem; background: purple; color: white; font-family: Tahoma; text-align: center;">
+<!--<div style="width: 100%; box-sizing: border-box; padding: 0.5rem 1rem; background: purple; color: white; font-family: Tahoma; text-align: center;">
 	&mdash;&nbsp;&nbsp; New Website Launched | <a href="https://theorytest.condensis.com/" style="color: lightblue; text-decoration: underline;" target="_blank"> Driving Theory Test Ireland </a>&nbsp;&nbsp;&mdash;	
+</div>-->
+<div style="width: 100%; box-sizing: border-box; padding: 0.5rem 1rem; background: oklch(71.8% 0.202 349.761); color: white; font-family: Tahoma; text-align: center; border-bottom: 2px solid white;">
+	&mdash;&nbsp;&nbsp; New Service Launched | <a href="https://lab.condensis.com/" style="color: lightblue; text-decoration: underline;" target="_blank"> Condensis Lab </a>&nbsp;&nbsp;&mdash;	
+</div>
+<div style="width: 100%; box-sizing: border-box; padding: 0.5rem 1rem; background: darkblue; color: white; font-family: Tahoma; text-align: center; border-bottom: 2px solid white;">
+	&mdash;&nbsp;&nbsp; New App Launched | <a href="https://epok.condensis.com/" style="color: lightblue; text-decoration: underline;" target="_blank"> Condensis Epok </a>&nbsp;&nbsp;&mdash;	
+</div>
+<div style="width: 100%; box-sizing: border-box; padding: 0.5rem 1rem; background: oklch(62.7% 0.194 149.214); color: white; font-family: Tahoma; text-align: center; border-bottom: 2px solid black;">
+	&mdash;&nbsp;&nbsp; New NPM Package Released | <a href="https://www.npmjs.com/package/@davidcal/fec-raptorq" style="color: lightblue; text-decoration: underline;" target="_blank"> @davidcal/fec-raptorq </a>&nbsp;&nbsp;&mdash;	
 </div>
 <div style="display: flex; flex-direction: column; height: 100%;">
 	<div class="header" class:is-home={isHome}>
