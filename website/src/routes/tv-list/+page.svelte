@@ -77,6 +77,11 @@
 			rotten_tomatoes_url: "https://www.rottentomatoes.com/m/1084398-life_is_beautiful",
 		},
 		{
+			name: "Love Actually",
+			imdb_url: "https://www.imdb.com/title/tt0314331/",
+			rotten_tomatoes_url: "https://www.rottentomatoes.com/m/love_actually",	
+		},
+		{
 			name: "Never Let Me Go",
 			imdb_url: "https://www.imdb.com/title/tt1334260/",
 			rotten_tomatoes_url: "https://www.rottentomatoes.com/m/never_let_me_go_2010",

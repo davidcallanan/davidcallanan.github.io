@@ -1,11 +1,11 @@
 {
   "node_modules/.pnpm/@sveltejs+kit@1.0.0-next.505_svelte@3.48.0_vite@3.1.4/node_modules/@sveltejs/kit/src/runtime/client/start.js": {
-    "file": "_app/immutable/start-e8b560c6.js",
+    "file": "_app/immutable/start-37d08ed4.js",
     "src": "node_modules/.pnpm/@sveltejs+kit@1.0.0-next.505_svelte@3.48.0_vite@3.1.4/node_modules/@sveltejs/kit/src/runtime/client/start.js",
     "isEntry": true,
     "imports": [
       "_index-46e3bee9.js",
-      "_singletons-e56ec178.js"
+      "_singletons-71c7e39e.js"
     ],
     "dynamicImports": [
       ".svelte-kit/generated/nodes/0.js",
@@ -20,25 +20,25 @@
     ]
   },
   "src/routes/+layout.svelte": {
-    "file": "_app/immutable/components/pages/_layout.svelte-7c228e25.js",
+    "file": "_app/immutable/components/pages/_layout.svelte-6771c498.js",
     "src": "src/routes/+layout.svelte",
     "isEntry": true,
     "imports": [
       "_index-46e3bee9.js",
-      "_stores-ea86d12a.js",
-      "_singletons-e56ec178.js"
+      "_stores-b572239b.js",
+      "_singletons-71c7e39e.js"
     ],
     "css": [
       "_app/immutable/assets/_layout-da32b7e9.css"
     ]
   },
   "node_modules/.pnpm/@sveltejs+kit@1.0.0-next.505_svelte@3.48.0_vite@3.1.4/node_modules/@sveltejs/kit/src/runtime/components/error.svelte": {
-    "file": "_app/immutable/components/error.svelte-5d5aad5b.js",
+    "file": "_app/immutable/components/error.svelte-d65cf047.js",
     "src": "node_modules/.pnpm/@sveltejs+kit@1.0.0-next.505_svelte@3.48.0_vite@3.1.4/node_modules/@sveltejs/kit/src/runtime/components/error.svelte",
     "isEntry": true,
     "imports": [
       "_index-46e3bee9.js",
-      "_stores-ea86d12a.js"
+      "_stores-b572239b.js"
     ]
   },
   "src/routes/+page.svelte": {
@@ -108,7 +108,7 @@
     ]
   },
   "src/routes/tv-list/+page.svelte": {
-    "file": "_app/immutable/components/pages/tv-list/_page.svelte-27ba3bdd.js",
+    "file": "_app/immutable/components/pages/tv-list/_page.svelte-6f7a08e7.js",
     "src": "src/routes/tv-list/+page.svelte",
     "isEntry": true,
     "imports": [
@@ -126,8 +126,8 @@
       "__layout-60ced57c.js"
     ]
   },
-  "_singletons-e56ec178.js": {
-    "file": "_app/immutable/chunks/singletons-e56ec178.js",
+  "_singletons-71c7e39e.js": {
+    "file": "_app/immutable/chunks/singletons-71c7e39e.js",
     "imports": [
       "_index-46e3bee9.js"
     ]
@@ -135,18 +135,18 @@
   "_index-46e3bee9.js": {
     "file": "_app/immutable/chunks/index-46e3bee9.js"
   },
-  "_stores-ea86d12a.js": {
-    "file": "_app/immutable/chunks/stores-ea86d12a.js",
+  "_stores-b572239b.js": {
+    "file": "_app/immutable/chunks/stores-b572239b.js",
     "imports": [
       "_index-46e3bee9.js",
-      "_singletons-e56ec178.js"
+      "_singletons-71c7e39e.js"
     ]
   },
   "__layout-60ced57c.js": {
     "file": "_app/immutable/chunks/_layout-60ced57c.js"
   },
   ".svelte-kit/generated/nodes/0.js": {
-    "file": "_app/immutable/chunks/0-644e3420.js",
+    "file": "_app/immutable/chunks/0-4b580682.js",
     "src": ".svelte-kit/generated/nodes/0.js",
     "isDynamicEntry": true,
     "imports": [
@@ -155,7 +155,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/1.js": {
-    "file": "_app/immutable/chunks/1-af1ad4cb.js",
+    "file": "_app/immutable/chunks/1-8a09bf25.js",
     "src": ".svelte-kit/generated/nodes/1.js",
     "isDynamicEntry": true,
     "imports": [
@@ -211,7 +211,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/8.js": {
-    "file": "_app/immutable/chunks/8-f5ac0150.js",
+    "file": "_app/immutable/chunks/8-230842c0.js",
     "src": ".svelte-kit/generated/nodes/8.js",
     "isDynamicEntry": true,
     "imports": [
@@ -222,17 +222,9 @@
     "file": "_app/immutable/assets/_layout-da32b7e9.css",
     "src": "src/routes/+layout.css"
   },
-  "src/routes/tools/total-tax-calculator/+page.css": {
-    "file": "_app/immutable/assets/_page-8f43b413.css",
-    "src": "src/routes/tools/total-tax-calculator/+page.css"
-  },
   "src/routes/domains/+page.css": {
     "file": "_app/immutable/assets/_page-2c5536e5.css",
     "src": "src/routes/domains/+page.css"
-  },
-  "src/routes/dictionary/+page.css": {
-    "file": "_app/immutable/assets/_page-ce670966.css",
-    "src": "src/routes/dictionary/+page.css"
   },
   "src/routes/top-quotes/+page.css": {
     "file": "_app/immutable/assets/_page-af08e20f.css",
@@ -242,12 +234,20 @@
     "file": "_app/immutable/assets/_page-daf83ef7.css",
     "src": "src/routes/quotes/+page.css"
   },
-  "src/routes/+page.css": {
-    "file": "_app/immutable/assets/_page-95d5800b.css",
-    "src": "src/routes/+page.css"
-  },
   "src/routes/tv-list/+page.css": {
     "file": "_app/immutable/assets/_page-edc2d1d8.css",
     "src": "src/routes/tv-list/+page.css"
+  },
+  "src/routes/tools/total-tax-calculator/+page.css": {
+    "file": "_app/immutable/assets/_page-8f43b413.css",
+    "src": "src/routes/tools/total-tax-calculator/+page.css"
+  },
+  "src/routes/dictionary/+page.css": {
+    "file": "_app/immutable/assets/_page-ce670966.css",
+    "src": "src/routes/dictionary/+page.css"
+  },
+  "src/routes/+page.css": {
+    "file": "_app/immutable/assets/_page-95d5800b.css",
+    "src": "src/routes/+page.css"
   }
 }
