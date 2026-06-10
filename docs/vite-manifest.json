@@ -1,11 +1,11 @@
 {
   "node_modules/.pnpm/@sveltejs+kit@1.0.0-next.505_svelte@3.48.0_vite@3.1.4/node_modules/@sveltejs/kit/src/runtime/client/start.js": {
-    "file": "_app/immutable/start-37d08ed4.js",
+    "file": "_app/immutable/start-48c31d50.js",
     "src": "node_modules/.pnpm/@sveltejs+kit@1.0.0-next.505_svelte@3.48.0_vite@3.1.4/node_modules/@sveltejs/kit/src/runtime/client/start.js",
     "isEntry": true,
     "imports": [
       "_index-46e3bee9.js",
-      "_singletons-71c7e39e.js"
+      "_singletons-7a44a3dd.js"
     ],
     "dynamicImports": [
       ".svelte-kit/generated/nodes/0.js",
@@ -20,29 +20,29 @@
     ]
   },
   "src/routes/+layout.svelte": {
-    "file": "_app/immutable/components/pages/_layout.svelte-6771c498.js",
+    "file": "_app/immutable/components/pages/_layout.svelte-cc85445c.js",
     "src": "src/routes/+layout.svelte",
     "isEntry": true,
     "imports": [
       "_index-46e3bee9.js",
-      "_stores-b572239b.js",
-      "_singletons-71c7e39e.js"
+      "_stores-30aacaba.js",
+      "_singletons-7a44a3dd.js"
     ],
     "css": [
       "_app/immutable/assets/_layout-da32b7e9.css"
     ]
   },
   "node_modules/.pnpm/@sveltejs+kit@1.0.0-next.505_svelte@3.48.0_vite@3.1.4/node_modules/@sveltejs/kit/src/runtime/components/error.svelte": {
-    "file": "_app/immutable/components/error.svelte-d65cf047.js",
+    "file": "_app/immutable/components/error.svelte-d660c633.js",
     "src": "node_modules/.pnpm/@sveltejs+kit@1.0.0-next.505_svelte@3.48.0_vite@3.1.4/node_modules/@sveltejs/kit/src/runtime/components/error.svelte",
     "isEntry": true,
     "imports": [
       "_index-46e3bee9.js",
-      "_stores-b572239b.js"
+      "_stores-30aacaba.js"
     ]
   },
   "src/routes/+page.svelte": {
-    "file": "_app/immutable/components/pages/_page.svelte-3ce4883a.js",
+    "file": "_app/immutable/components/pages/_page.svelte-31d14075.js",
     "src": "src/routes/+page.svelte",
     "isEntry": true,
     "imports": [
@@ -53,7 +53,7 @@
     ]
   },
   "src/routes/dictionary/+page.svelte": {
-    "file": "_app/immutable/components/pages/dictionary/_page.svelte-534390f0.js",
+    "file": "_app/immutable/components/pages/dictionary/_page.svelte-4edb51ce.js",
     "src": "src/routes/dictionary/+page.svelte",
     "isEntry": true,
     "imports": [
@@ -64,7 +64,7 @@
     ]
   },
   "src/routes/domains/+page.svelte": {
-    "file": "_app/immutable/components/pages/domains/_page.svelte-cd1ed731.js",
+    "file": "_app/immutable/components/pages/domains/_page.svelte-16c56aa5.js",
     "src": "src/routes/domains/+page.svelte",
     "isEntry": true,
     "imports": [
@@ -75,7 +75,7 @@
     ]
   },
   "src/routes/quotes/+page.svelte": {
-    "file": "_app/immutable/components/pages/quotes/_page.svelte-2be06cf0.js",
+    "file": "_app/immutable/components/pages/quotes/_page.svelte-5aa0307d.js",
     "src": "src/routes/quotes/+page.svelte",
     "isEntry": true,
     "imports": [
@@ -86,7 +86,7 @@
     ]
   },
   "src/routes/tools/total-tax-calculator/+page.svelte": {
-    "file": "_app/immutable/components/pages/tools/total-tax-calculator/_page.svelte-2024849b.js",
+    "file": "_app/immutable/components/pages/tools/total-tax-calculator/_page.svelte-604000ba.js",
     "src": "src/routes/tools/total-tax-calculator/+page.svelte",
     "isEntry": true,
     "imports": [
@@ -97,7 +97,7 @@
     ]
   },
   "src/routes/top-quotes/+page.svelte": {
-    "file": "_app/immutable/components/pages/top-quotes/_page.svelte-2a19b3b2.js",
+    "file": "_app/immutable/components/pages/top-quotes/_page.svelte-50dc52dc.js",
     "src": "src/routes/top-quotes/+page.svelte",
     "isEntry": true,
     "imports": [
@@ -108,7 +108,7 @@
     ]
   },
   "src/routes/tv-list/+page.svelte": {
-    "file": "_app/immutable/components/pages/tv-list/_page.svelte-6f7a08e7.js",
+    "file": "_app/immutable/components/pages/tv-list/_page.svelte-547b77c2.js",
     "src": "src/routes/tv-list/+page.svelte",
     "isEntry": true,
     "imports": [
@@ -126,8 +126,8 @@
       "__layout-60ced57c.js"
     ]
   },
-  "_singletons-71c7e39e.js": {
-    "file": "_app/immutable/chunks/singletons-71c7e39e.js",
+  "_singletons-7a44a3dd.js": {
+    "file": "_app/immutable/chunks/singletons-7a44a3dd.js",
     "imports": [
       "_index-46e3bee9.js"
     ]
@@ -135,18 +135,18 @@
   "_index-46e3bee9.js": {
     "file": "_app/immutable/chunks/index-46e3bee9.js"
   },
-  "_stores-b572239b.js": {
-    "file": "_app/immutable/chunks/stores-b572239b.js",
+  "_stores-30aacaba.js": {
+    "file": "_app/immutable/chunks/stores-30aacaba.js",
     "imports": [
       "_index-46e3bee9.js",
-      "_singletons-71c7e39e.js"
+      "_singletons-7a44a3dd.js"
     ]
   },
   "__layout-60ced57c.js": {
     "file": "_app/immutable/chunks/_layout-60ced57c.js"
   },
   ".svelte-kit/generated/nodes/0.js": {
-    "file": "_app/immutable/chunks/0-4b580682.js",
+    "file": "_app/immutable/chunks/0-0f381b97.js",
     "src": ".svelte-kit/generated/nodes/0.js",
     "isDynamicEntry": true,
     "imports": [
@@ -155,7 +155,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/1.js": {
-    "file": "_app/immutable/chunks/1-8a09bf25.js",
+    "file": "_app/immutable/chunks/1-4352b6a6.js",
     "src": ".svelte-kit/generated/nodes/1.js",
     "isDynamicEntry": true,
     "imports": [
@@ -163,7 +163,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/2.js": {
-    "file": "_app/immutable/chunks/2-eb035d46.js",
+    "file": "_app/immutable/chunks/2-9d44b7a4.js",
     "src": ".svelte-kit/generated/nodes/2.js",
     "isDynamicEntry": true,
     "imports": [
@@ -171,7 +171,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/3.js": {
-    "file": "_app/immutable/chunks/3-12a6ff6b.js",
+    "file": "_app/immutable/chunks/3-26e63979.js",
     "src": ".svelte-kit/generated/nodes/3.js",
     "isDynamicEntry": true,
     "imports": [
@@ -179,7 +179,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/4.js": {
-    "file": "_app/immutable/chunks/4-07cd56e4.js",
+    "file": "_app/immutable/chunks/4-a59b4e5d.js",
     "src": ".svelte-kit/generated/nodes/4.js",
     "isDynamicEntry": true,
     "imports": [
@@ -187,7 +187,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/5.js": {
-    "file": "_app/immutable/chunks/5-83f09ec1.js",
+    "file": "_app/immutable/chunks/5-59be3d9d.js",
     "src": ".svelte-kit/generated/nodes/5.js",
     "isDynamicEntry": true,
     "imports": [
@@ -195,7 +195,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/6.js": {
-    "file": "_app/immutable/chunks/6-8e003c20.js",
+    "file": "_app/immutable/chunks/6-36d4d5cb.js",
     "src": ".svelte-kit/generated/nodes/6.js",
     "isDynamicEntry": true,
     "imports": [
@@ -203,7 +203,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/7.js": {
-    "file": "_app/immutable/chunks/7-c5eb6ec6.js",
+    "file": "_app/immutable/chunks/7-b066ef43.js",
     "src": ".svelte-kit/generated/nodes/7.js",
     "isDynamicEntry": true,
     "imports": [
@@ -211,36 +211,28 @@
     ]
   },
   ".svelte-kit/generated/nodes/8.js": {
-    "file": "_app/immutable/chunks/8-230842c0.js",
+    "file": "_app/immutable/chunks/8-a2aebf2d.js",
     "src": ".svelte-kit/generated/nodes/8.js",
     "isDynamicEntry": true,
     "imports": [
       "src/routes/tv-list/+page.svelte"
     ]
   },
-  "src/routes/+layout.css": {
-    "file": "_app/immutable/assets/_layout-da32b7e9.css",
-    "src": "src/routes/+layout.css"
-  },
-  "src/routes/domains/+page.css": {
-    "file": "_app/immutable/assets/_page-2c5536e5.css",
-    "src": "src/routes/domains/+page.css"
-  },
-  "src/routes/top-quotes/+page.css": {
-    "file": "_app/immutable/assets/_page-af08e20f.css",
-    "src": "src/routes/top-quotes/+page.css"
-  },
-  "src/routes/quotes/+page.css": {
-    "file": "_app/immutable/assets/_page-daf83ef7.css",
-    "src": "src/routes/quotes/+page.css"
-  },
   "src/routes/tv-list/+page.css": {
     "file": "_app/immutable/assets/_page-edc2d1d8.css",
     "src": "src/routes/tv-list/+page.css"
   },
+  "src/routes/+layout.css": {
+    "file": "_app/immutable/assets/_layout-da32b7e9.css",
+    "src": "src/routes/+layout.css"
+  },
   "src/routes/tools/total-tax-calculator/+page.css": {
     "file": "_app/immutable/assets/_page-8f43b413.css",
     "src": "src/routes/tools/total-tax-calculator/+page.css"
+  },
+  "src/routes/quotes/+page.css": {
+    "file": "_app/immutable/assets/_page-daf83ef7.css",
+    "src": "src/routes/quotes/+page.css"
   },
   "src/routes/dictionary/+page.css": {
     "file": "_app/immutable/assets/_page-ce670966.css",
@@ -249,5 +241,13 @@
   "src/routes/+page.css": {
     "file": "_app/immutable/assets/_page-95d5800b.css",
     "src": "src/routes/+page.css"
+  },
+  "src/routes/top-quotes/+page.css": {
+    "file": "_app/immutable/assets/_page-af08e20f.css",
+    "src": "src/routes/top-quotes/+page.css"
+  },
+  "src/routes/domains/+page.css": {
+    "file": "_app/immutable/assets/_page-2c5536e5.css",
+    "src": "src/routes/domains/+page.css"
   }
 }

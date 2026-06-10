@@ -92,7 +92,7 @@
 		<div>
 			<ul>
 				<li>
-					Maynooth University — <a href="https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/courses/bsc-computational-thinking">Bachelor of Science, Computational Thinking</a> (2 years remaining)<br>
+					Maynooth University — <a href="https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/courses/bsc-computational-thinking">Bachelor of Science, Computational Thinking</a> (completed May 2026)<br>
 					<ul>
 						<li>
 							Computer Science, Pure Mathematics and Philosophy (Accelerated Degree)
@@ -100,6 +100,9 @@
 					</ul>
 				</li>
 				<li>
+					See additional education on <a href="https://www.linkedin.com/in/davidpcallanan/">LinkedIn</a>.
+				</li>
+				<!--<li>
 					<details>
 						<summary>Self-educated</summary><br>
 						<ul>
@@ -114,13 +117,29 @@
 							</li>
 						</ul>
 					</details>
-				</li>
+				</li>-->
 			</ul>
 		</div>
 
 		<h2 class="h1" id="experience"> Experience </h2>
 
 		<ul>
+			<li>
+				<a href="https://dltcapital.ie" target="_blank">DLT Capital Ireland</a> (2026)
+				<ul>
+					<li>
+						Quantitative Software Engineer (2026)
+					</li>
+				</ul>
+			</li>
+			<li>
+				Maynooth University (2025-2026)
+				<ul>
+					<li>
+						Head Demonstrator (2025-2026)
+					</li>
+				</ul>
+			</li>
 			<li>
 				<a href="https://ivi.ie" target="_blank">Innovation Value Institute</a> (2025)
 				<ul>
