@@ -25,7 +25,7 @@
 <!--<div style="width: 100%; box-sizing: border-box; padding: 0.5rem 1rem; background: purple; color: white; font-family: Tahoma; text-align: center;">
 	&mdash;&nbsp;&nbsp; New Website Launched | <a href="https://theorytest.condensis.com/" style="color: lightblue; text-decoration: underline;" target="_blank"> Driving Theory Test Ireland </a>&nbsp;&nbsp;&mdash;	
 </div>-->
-<div style="width: 100%; box-sizing: border-box; padding: 0.5rem 2rem; background: darkcyan; color: white; border-bottom: 4px solid black; font-family: Tahoma; font-weight: 600; font-size: 18px; text-align: center; border-bottom: 2px solid white;">
+<div style="width: 100%; box-sizing: border-box; padding: 0.5rem 2rem; background: darkcyan; color: white; border-bottom: 4px solid black; font-family: Tahoma; font-weight: 600; font-size: 18px; text-align: center;">
 	&mdash;&nbsp;&nbsp; New Frontend UI Framework Released | <a href="https://frosth.condensis.com/" style="color: lightred; text-decoration: underline;" target="_blank"> Frosth </a>&nbsp;&nbsp;&mdash;	
 </div>
 <div style="width: 100%; box-sizing: border-box; padding: 0.5rem 1rem; background: oklch(71.8% 0.202 349.761); color: white; font-family: Tahoma; text-align: center; border-bottom: 2px solid white;">
