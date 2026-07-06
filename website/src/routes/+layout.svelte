@@ -25,6 +25,9 @@
 <!--<div style="width: 100%; box-sizing: border-box; padding: 0.5rem 1rem; background: purple; color: white; font-family: Tahoma; text-align: center;">
 	&mdash;&nbsp;&nbsp; New Website Launched | <a href="https://theorytest.condensis.com/" style="color: lightblue; text-decoration: underline;" target="_blank"> Driving Theory Test Ireland </a>&nbsp;&nbsp;&mdash;	
 </div>-->
+<div style="width: 100%; box-sizing: border-box; padding: 0.5rem 2rem; background: AntiqueWhite; color: MidnightBlue; border-bottom: 3px solid blue; font-family: Tahoma; font-weight: 600; font-size: 14px; text-align: center;">
+	&mdash;&nbsp;&nbsp; New Ireland Private Tutoring Launched for Maynooth University | <a href="https://tutorsireland.com/" style="color: red; text-decoration: underline;" target="_blank"> TutorsIreland </a>&nbsp;&nbsp;&mdash;	
+</div>
 <div style="width: 100%; box-sizing: border-box; padding: 0.5rem 2rem; background: darkcyan; color: white; border-bottom: 4px solid black; font-family: Tahoma; font-weight: 600; font-size: 18px; text-align: center;">
 	&mdash;&nbsp;&nbsp; New Frontend UI Framework Released | <a href="https://frosth.condensis.com/" style="color: lightred; text-decoration: underline;" target="_blank"> Frosth </a>&nbsp;&nbsp;&mdash;	
 </div>
